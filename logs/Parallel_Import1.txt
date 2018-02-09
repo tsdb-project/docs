@@ -1,0 +1,2008 @@
+19G: 1h25m
+
+C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\bin\java "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2017.3.4\lib\idea_rt.jar=7424:C:\Program Files\JetBrains\IntelliJ IDEA 2017.3.4\bin" -Dfile.encoding=UTF-8 -classpath C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\charsets.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\ext\access-bridge-64.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\ext\cldrdata.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\ext\dnsns.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\ext\jaccess.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\ext\localedata.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\ext\nashorn.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\ext\sunec.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\ext\sunjce_provider.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\ext\sunmscapi.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\ext\sunpkcs11.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\ext\zipfs.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\jce.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\jsse.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\management-agent.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\resources.jar;C:\OpenJDK\java-1.8.0-openjdk-1.8.0.161-1\jre\lib\rt.jar;E:\Source\@Pitt_Project\INFSCI2711\src\influx-test\target\classes;C:\Users\CptTony\.m2\repository\org\springframework\boot\spring-boot-starter-thymeleaf\2.0.0.M7\spring-boot-starter-thymeleaf-2.0.0.M7.jar;C:\Users\CptTony\.m2\repository\org\springframework\boot\spring-boot-starter\2.0.0.M7\spring-boot-starter-2.0.0.M7.jar;C:\Users\CptTony\.m2\repository\org\springframework\boot\spring-boot-starter-logging\2.0.0.M7\spring-boot-starter-logging-2.0.0.M7.jar;C:\Users\CptTony\.m2\repository\ch\qos\logback\logback-classic\1.2.3\logback-classic-1.2.3.jar;C:\Users\CptTony\.m2\repository\ch\qos\logback\logback-core\1.2.3\logback-core-1.2.3.jar;C:\Users\CptTony\.m2\repository\org\apache\logging\log4j\log4j-to-slf4j\2.10.0\log4j-to-slf4j-2.10.0.jar;C:\Users\CptTony\.m2\repository\org\apache\logging\log4j\log4j-api\2.10.0\log4j-api-2.10.0.jar;C:\Users\CptTony\.m2\repository\org\slf4j\jul-to-slf4j\1.7.25\jul-to-slf4j-1.7.25.jar;C:\Users\CptTony\.m2\repository\javax\annotation\javax.annotation-api\1.3.1\javax.annotation-api-1.3.1.jar;C:\Users\CptTony\.m2\repository\org\yaml\snakeyaml\1.19\snakeyaml-1.19.jar;C:\Users\CptTony\.m2\repository\org\thymeleaf\thymeleaf-spring5\3.0.9.RELEASE\thymeleaf-spring5-3.0.9.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\thymeleaf\thymeleaf\3.0.9.RELEASE\thymeleaf-3.0.9.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\attoparser\attoparser\2.0.4.RELEASE\attoparser-2.0.4.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\unbescape\unbescape\1.1.5.RELEASE\unbescape-1.1.5.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\slf4j\slf4j-api\1.7.25\slf4j-api-1.7.25.jar;C:\Users\CptTony\.m2\repository\org\thymeleaf\extras\thymeleaf-extras-java8time\3.0.1.RELEASE\thymeleaf-extras-java8time-3.0.1.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\springframework\boot\spring-boot-devtools\2.0.0.M7\spring-boot-devtools-2.0.0.M7.jar;C:\Users\CptTony\.m2\repository\org\springframework\boot\spring-boot\2.0.0.M7\spring-boot-2.0.0.M7.jar;C:\Users\CptTony\.m2\repository\org\springframework\spring-context\5.0.2.RELEASE\spring-context-5.0.2.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\springframework\boot\spring-boot-autoconfigure\2.0.0.M7\spring-boot-autoconfigure-2.0.0.M7.jar;C:\Users\CptTony\.m2\repository\org\springframework\boot\spring-boot-starter-web\2.0.0.M7\spring-boot-starter-web-2.0.0.M7.jar;C:\Users\CptTony\.m2\repository\org\springframework\boot\spring-boot-starter-json\2.0.0.M7\spring-boot-starter-json-2.0.0.M7.jar;C:\Users\CptTony\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.2\jackson-databind-2.9.2.jar;C:\Users\CptTony\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\CptTony\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.2\jackson-core-2.9.2.jar;C:\Users\CptTony\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jdk8\2.9.2\jackson-datatype-jdk8-2.9.2.jar;C:\Users\CptTony\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.9.2\jackson-datatype-jsr310-2.9.2.jar;C:\Users\CptTony\.m2\repository\com\fasterxml\jackson\module\jackson-module-parameter-names\2.9.2\jackson-module-parameter-names-2.9.2.jar;C:\Users\CptTony\.m2\repository\org\springframework\boot\spring-boot-starter-tomcat\2.0.0.M7\spring-boot-starter-tomcat-2.0.0.M7.jar;C:\Users\CptTony\.m2\repository\org\apache\tomcat\embed\tomcat-embed-core\8.5.23\tomcat-embed-core-8.5.23.jar;C:\Users\CptTony\.m2\repository\org\apache\tomcat\tomcat-annotations-api\8.5.23\tomcat-annotations-api-8.5.23.jar;C:\Users\CptTony\.m2\repository\org\apache\tomcat\embed\tomcat-embed-el\8.5.23\tomcat-embed-el-8.5.23.jar;C:\Users\CptTony\.m2\repository\org\apache\tomcat\embed\tomcat-embed-websocket\8.5.23\tomcat-embed-websocket-8.5.23.jar;C:\Users\CptTony\.m2\repository\org\hibernate\validator\hibernate-validator\6.0.5.Final\hibernate-validator-6.0.5.Final.jar;C:\Users\CptTony\.m2\repository\javax\validation\validation-api\2.0.0.Final\validation-api-2.0.0.Final.jar;C:\Users\CptTony\.m2\repository\org\jboss\logging\jboss-logging\3.3.1.Final\jboss-logging-3.3.1.Final.jar;C:\Users\CptTony\.m2\repository\com\fasterxml\classmate\1.3.4\classmate-1.3.4.jar;C:\Users\CptTony\.m2\repository\org\springframework\spring-web\5.0.2.RELEASE\spring-web-5.0.2.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\springframework\spring-beans\5.0.2.RELEASE\spring-beans-5.0.2.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\springframework\spring-webmvc\5.0.2.RELEASE\spring-webmvc-5.0.2.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\springframework\spring-aop\5.0.2.RELEASE\spring-aop-5.0.2.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\springframework\spring-expression\5.0.2.RELEASE\spring-expression-5.0.2.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\springframework\boot\spring-boot-starter-web-services\2.0.0.M7\spring-boot-starter-web-services-2.0.0.M7.jar;C:\Users\CptTony\.m2\repository\org\springframework\spring-oxm\5.0.2.RELEASE\spring-oxm-5.0.2.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\springframework\ws\spring-ws-core\3.0.0.RELEASE\spring-ws-core-3.0.0.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\springframework\ws\spring-xml\3.0.0.RELEASE\spring-xml-3.0.0.RELEASE.jar;C:\Users\CptTony\.m2\repository\commons-io\commons-io\2.5\commons-io-2.5.jar;C:\Users\CptTony\.m2\repository\org\springframework\spring-core\5.0.2.RELEASE\spring-core-5.0.2.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\springframework\spring-jcl\5.0.2.RELEASE\spring-jcl-5.0.2.RELEASE.jar;C:\Users\CptTony\.m2\repository\org\influxdb\influxdb-java\2.8\influxdb-java-2.8.jar;C:\Users\CptTony\.m2\repository\com\squareup\retrofit2\retrofit\2.3.0\retrofit-2.3.0.jar;C:\Users\CptTony\.m2\repository\com\squareup\retrofit2\converter-moshi\2.3.0\converter-moshi-2.3.0.jar;C:\Users\CptTony\.m2\repository\com\squareup\moshi\moshi\1.4.0\moshi-1.4.0.jar;C:\Users\CptTony\.m2\repository\com\squareup\okhttp3\okhttp\3.9.1\okhttp-3.9.1.jar;C:\Users\CptTony\.m2\repository\com\squareup\okio\okio\1.13.0\okio-1.13.0.jar;C:\Users\CptTony\.m2\repository\com\squareup\okhttp3\logging-interceptor\3.9.1\logging-interceptor-3.9.1.jar;C:\Users\CptTony\.m2\repository\org\apache\poi\poi\3.17\poi-3.17.jar;C:\Users\CptTony\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\CptTony\.m2\repository\org\apache\commons\commons-collections4\4.1\commons-collections4-4.1.jar app.service.ImportCsvService
+NoART processing 'PUH-2010-080_02noar.csv'
+ART processing 'PUH-2010-138_01ar.csv'
+PUH-2010-080_02noar.csv columns: 6038
+PUH-2010-138_01ar.csv columns: 6039
+ART processed 0.86% (256 records), PUH-2010-138_01ar.csv
+NoART processed 0.31% (256 records), PUH-2010-080_02noar.csv
+ART processed 1.71% (512 records), PUH-2010-138_01ar.csv
+NoART processed 0.62% (512 records), PUH-2010-080_02noar.csv
+ART processed 2.58% (768 records), PUH-2010-138_01ar.csv
+NoART processed 0.92% (768 records), PUH-2010-080_02noar.csv
+ART processed 3.45% (1024 records), PUH-2010-138_01ar.csv
+NoART processed 1.23% (1024 records), PUH-2010-080_02noar.csv
+ART processed 4.31% (1280 records), PUH-2010-138_01ar.csv
+NoART processed 1.54% (1280 records), PUH-2010-080_02noar.csv
+ART processed 5.16% (1536 records), PUH-2010-138_01ar.csv
+NoART processed 1.86% (1536 records), PUH-2010-080_02noar.csv
+NoART processed 2.17% (1792 records), PUH-2010-080_02noar.csv
+ART processed 6.01% (1792 records), PUH-2010-138_01ar.csv
+ART processed 6.85% (2048 records), PUH-2010-138_01ar.csv
+NoART processed 2.48% (2048 records), PUH-2010-080_02noar.csv
+ART processed 7.69% (2304 records), PUH-2010-138_01ar.csv
+NoART processed 2.79% (2304 records), PUH-2010-080_02noar.csv
+ART processed 8.55% (2560 records), PUH-2010-138_01ar.csv
+NoART processed 3.10% (2560 records), PUH-2010-080_02noar.csv
+ART processed 9.38% (2816 records), PUH-2010-138_01ar.csv
+NoART processed 3.40% (2816 records), PUH-2010-080_02noar.csv
+ART processed 10.23% (3072 records), PUH-2010-138_01ar.csv
+NoART processed 3.71% (3072 records), PUH-2010-080_02noar.csv
+ART processed 11.08% (3328 records), PUH-2010-138_01ar.csv
+NoART processed 4.02% (3328 records), PUH-2010-080_02noar.csv
+NoART processed 4.33% (3584 records), PUH-2010-080_02noar.csv
+ART processed 11.92% (3584 records), PUH-2010-138_01ar.csv
+NoART processed 4.63% (3840 records), PUH-2010-080_02noar.csv
+ART processed 12.75% (3840 records), PUH-2010-138_01ar.csv
+NoART processed 4.94% (4096 records), PUH-2010-080_02noar.csv
+ART processed 13.58% (4096 records), PUH-2010-138_01ar.csv
+ART processed 14.41% (4352 records), PUH-2010-138_01ar.csv
+NoART processed 5.24% (4352 records), PUH-2010-080_02noar.csv
+ART processed 15.23% (4608 records), PUH-2010-138_01ar.csv
+NoART processed 5.55% (4608 records), PUH-2010-080_02noar.csv
+NoART processed 5.86% (4864 records), PUH-2010-080_02noar.csv
+ART processed 16.04% (4864 records), PUH-2010-138_01ar.csv
+ART processed 16.86% (5120 records), PUH-2010-138_01ar.csv
+NoART processed 6.17% (5120 records), PUH-2010-080_02noar.csv
+NoART processed 6.48% (5376 records), PUH-2010-080_02noar.csv
+ART processed 17.67% (5376 records), PUH-2010-138_01ar.csv
+ART processed 18.49% (5632 records), PUH-2010-138_01ar.csv
+NoART processed 6.78% (5632 records), PUH-2010-080_02noar.csv
+ART processed 19.33% (5888 records), PUH-2010-138_01ar.csv
+NoART processed 7.10% (5888 records), PUH-2010-080_02noar.csv
+NoART processed 7.41% (6144 records), PUH-2010-080_02noar.csv
+ART processed 20.13% (6144 records), PUH-2010-138_01ar.csv
+ART processed 20.96% (6400 records), PUH-2010-138_01ar.csv
+NoART processed 7.73% (6400 records), PUH-2010-080_02noar.csv
+ART processed 21.77% (6656 records), PUH-2010-138_01ar.csv
+NoART processed 8.03% (6656 records), PUH-2010-080_02noar.csv
+ART processed 22.59% (6912 records), PUH-2010-138_01ar.csv
+NoART processed 8.34% (6912 records), PUH-2010-080_02noar.csv
+ART processed 23.41% (7168 records), PUH-2010-138_01ar.csv
+NoART processed 8.65% (7168 records), PUH-2010-080_02noar.csv
+ART processed 24.24% (7424 records), PUH-2010-138_01ar.csv
+NoART processed 8.96% (7424 records), PUH-2010-080_02noar.csv
+NoART processed 9.28% (7680 records), PUH-2010-080_02noar.csv
+ART processed 25.07% (7680 records), PUH-2010-138_01ar.csv
+NoART processed 9.59% (7936 records), PUH-2010-080_02noar.csv
+ART processed 25.92% (7936 records), PUH-2010-138_01ar.csv
+ART processed 26.76% (8192 records), PUH-2010-138_01ar.csv
+NoART processed 9.89% (8192 records), PUH-2010-080_02noar.csv
+ART processed 27.59% (8448 records), PUH-2010-138_01ar.csv
+NoART processed 10.20% (8448 records), PUH-2010-080_02noar.csv
+ART processed 28.43% (8704 records), PUH-2010-138_01ar.csv
+NoART processed 10.51% (8704 records), PUH-2010-080_02noar.csv
+ART processed 29.25% (8960 records), PUH-2010-138_01ar.csv
+NoART processed 10.82% (8960 records), PUH-2010-080_02noar.csv
+ART processed 30.07% (9216 records), PUH-2010-138_01ar.csv
+NoART processed 11.13% (9216 records), PUH-2010-080_02noar.csv
+ART processed 30.86% (9472 records), PUH-2010-138_01ar.csv
+NoART processed 11.44% (9472 records), PUH-2010-080_02noar.csv
+ART processed 31.71% (9728 records), PUH-2010-138_01ar.csv
+NoART processed 11.75% (9728 records), PUH-2010-080_02noar.csv
+ART processed 32.54% (9984 records), PUH-2010-138_01ar.csv
+NoART processed 12.06% (9984 records), PUH-2010-080_02noar.csv
+ART processed 33.42% (10240 records), PUH-2010-138_01ar.csv
+NoART processed 12.37% (10240 records), PUH-2010-080_02noar.csv
+ART processed 34.30% (10496 records), PUH-2010-138_01ar.csv
+NoART processed 12.68% (10496 records), PUH-2010-080_02noar.csv
+ART processed 35.17% (10752 records), PUH-2010-138_01ar.csv
+NoART processed 12.98% (10752 records), PUH-2010-080_02noar.csv
+ART processed 36.04% (11008 records), PUH-2010-138_01ar.csv
+NoART processed 13.29% (11008 records), PUH-2010-080_02noar.csv
+ART processed 36.90% (11264 records), PUH-2010-138_01ar.csv
+NoART processed 13.59% (11264 records), PUH-2010-080_02noar.csv
+ART processed 37.78% (11520 records), PUH-2010-138_01ar.csv
+NoART processed 13.90% (11520 records), PUH-2010-080_02noar.csv
+ART processed 38.66% (11776 records), PUH-2010-138_01ar.csv
+NoART processed 14.21% (11776 records), PUH-2010-080_02noar.csv
+ART processed 39.54% (12032 records), PUH-2010-138_01ar.csv
+NoART processed 14.51% (12032 records), PUH-2010-080_02noar.csv
+ART processed 40.42% (12288 records), PUH-2010-138_01ar.csv
+NoART processed 14.81% (12288 records), PUH-2010-080_02noar.csv
+ART processed 41.30% (12544 records), PUH-2010-138_01ar.csv
+NoART processed 15.12% (12544 records), PUH-2010-080_02noar.csv
+ART processed 42.18% (12800 records), PUH-2010-138_01ar.csv
+NoART processed 15.42% (12800 records), PUH-2010-080_02noar.csv
+ART processed 43.07% (13056 records), PUH-2010-138_01ar.csv
+NoART processed 15.73% (13056 records), PUH-2010-080_02noar.csv
+ART processed 43.96% (13312 records), PUH-2010-138_01ar.csv
+NoART processed 16.03% (13312 records), PUH-2010-080_02noar.csv
+ART processed 44.85% (13568 records), PUH-2010-138_01ar.csv
+NoART processed 16.34% (13568 records), PUH-2010-080_02noar.csv
+ART processed 45.75% (13824 records), PUH-2010-138_01ar.csv
+NoART processed 16.64% (13824 records), PUH-2010-080_02noar.csv
+ART processed 46.63% (14080 records), PUH-2010-138_01ar.csv
+NoART processed 16.94% (14080 records), PUH-2010-080_02noar.csv
+ART processed 47.52% (14336 records), PUH-2010-138_01ar.csv
+NoART processed 17.25% (14336 records), PUH-2010-080_02noar.csv
+ART processed 48.38% (14592 records), PUH-2010-138_01ar.csv
+NoART processed 17.54% (14592 records), PUH-2010-080_02noar.csv
+ART processed 49.22% (14848 records), PUH-2010-138_01ar.csv
+NoART processed 17.85% (14848 records), PUH-2010-080_02noar.csv
+ART processed 50.10% (15104 records), PUH-2010-138_01ar.csv
+NoART processed 18.15% (15104 records), PUH-2010-080_02noar.csv
+ART processed 50.98% (15360 records), PUH-2010-138_01ar.csv
+NoART processed 18.45% (15360 records), PUH-2010-080_02noar.csv
+ART processed 51.86% (15616 records), PUH-2010-138_01ar.csv
+NoART processed 18.76% (15616 records), PUH-2010-080_02noar.csv
+ART processed 52.74% (15872 records), PUH-2010-138_01ar.csv
+NoART processed 19.06% (15872 records), PUH-2010-080_02noar.csv
+ART processed 53.63% (16128 records), PUH-2010-138_01ar.csv
+NoART processed 19.36% (16128 records), PUH-2010-080_02noar.csv
+ART processed 54.52% (16384 records), PUH-2010-138_01ar.csv
+NoART processed 19.67% (16384 records), PUH-2010-080_02noar.csv
+ART processed 55.41% (16640 records), PUH-2010-138_01ar.csv
+NoART processed 19.98% (16640 records), PUH-2010-080_02noar.csv
+ART processed 56.28% (16896 records), PUH-2010-138_01ar.csv
+NoART processed 20.29% (16896 records), PUH-2010-080_02noar.csv
+ART processed 57.15% (17152 records), PUH-2010-138_01ar.csv
+NoART processed 20.59% (17152 records), PUH-2010-080_02noar.csv
+ART processed 57.96% (17408 records), PUH-2010-138_01ar.csv
+NoART processed 20.90% (17408 records), PUH-2010-080_02noar.csv
+ART processed 58.78% (17664 records), PUH-2010-138_01ar.csv
+NoART processed 21.21% (17664 records), PUH-2010-080_02noar.csv
+ART processed 59.63% (17920 records), PUH-2010-138_01ar.csv
+NoART processed 21.51% (17920 records), PUH-2010-080_02noar.csv
+ART processed 60.46% (18176 records), PUH-2010-138_01ar.csv
+NoART processed 21.82% (18176 records), PUH-2010-080_02noar.csv
+ART processed 61.33% (18432 records), PUH-2010-138_01ar.csv
+NoART processed 22.13% (18432 records), PUH-2010-080_02noar.csv
+ART processed 62.17% (18688 records), PUH-2010-138_01ar.csv
+NoART processed 22.43% (18688 records), PUH-2010-080_02noar.csv
+NoART processed 22.74% (18944 records), PUH-2010-080_02noar.csv
+ART processed 62.99% (18944 records), PUH-2010-138_01ar.csv
+NoART processed 23.04% (19200 records), PUH-2010-080_02noar.csv
+ART processed 63.82% (19200 records), PUH-2010-138_01ar.csv
+ART processed 64.65% (19456 records), PUH-2010-138_01ar.csv
+NoART processed 23.34% (19456 records), PUH-2010-080_02noar.csv
+ART processed 65.49% (19712 records), PUH-2010-138_01ar.csv
+NoART processed 23.65% (19712 records), PUH-2010-080_02noar.csv
+ART processed 66.32% (19968 records), PUH-2010-138_01ar.csv
+NoART processed 23.95% (19968 records), PUH-2010-080_02noar.csv
+ART processed 67.14% (20224 records), PUH-2010-138_01ar.csv
+NoART processed 24.25% (20224 records), PUH-2010-080_02noar.csv
+ART processed 67.95% (20480 records), PUH-2010-138_01ar.csv
+NoART processed 24.55% (20480 records), PUH-2010-080_02noar.csv
+ART processed 68.78% (20736 records), PUH-2010-138_01ar.csv
+NoART processed 24.86% (20736 records), PUH-2010-080_02noar.csv
+ART processed 69.60% (20992 records), PUH-2010-138_01ar.csv
+NoART processed 25.16% (20992 records), PUH-2010-080_02noar.csv
+ART processed 70.37% (21248 records), PUH-2010-138_01ar.csv
+NoART processed 25.46% (21248 records), PUH-2010-080_02noar.csv
+ART processed 71.18% (21504 records), PUH-2010-138_01ar.csv
+NoART processed 25.76% (21504 records), PUH-2010-080_02noar.csv
+ART processed 72.03% (21760 records), PUH-2010-138_01ar.csv
+NoART processed 26.06% (21760 records), PUH-2010-080_02noar.csv
+ART processed 72.87% (22016 records), PUH-2010-138_01ar.csv
+NoART processed 26.35% (22016 records), PUH-2010-080_02noar.csv
+ART processed 73.71% (22272 records), PUH-2010-138_01ar.csv
+NoART processed 26.66% (22272 records), PUH-2010-080_02noar.csv
+ART processed 74.56% (22528 records), PUH-2010-138_01ar.csv
+NoART processed 26.96% (22528 records), PUH-2010-080_02noar.csv
+ART processed 75.41% (22784 records), PUH-2010-138_01ar.csv
+NoART processed 27.26% (22784 records), PUH-2010-080_02noar.csv
+ART processed 76.24% (23040 records), PUH-2010-138_01ar.csv
+NoART processed 27.56% (23040 records), PUH-2010-080_02noar.csv
+ART processed 77.08% (23296 records), PUH-2010-138_01ar.csv
+NoART processed 27.85% (23296 records), PUH-2010-080_02noar.csv
+ART processed 77.89% (23552 records), PUH-2010-138_01ar.csv
+NoART processed 28.15% (23552 records), PUH-2010-080_02noar.csv
+ART processed 78.70% (23808 records), PUH-2010-138_01ar.csv
+NoART processed 28.45% (23808 records), PUH-2010-080_02noar.csv
+ART processed 79.52% (24064 records), PUH-2010-138_01ar.csv
+NoART processed 28.75% (24064 records), PUH-2010-080_02noar.csv
+ART processed 80.35% (24320 records), PUH-2010-138_01ar.csv
+NoART processed 29.05% (24320 records), PUH-2010-080_02noar.csv
+ART processed 81.19% (24576 records), PUH-2010-138_01ar.csv
+NoART processed 29.36% (24576 records), PUH-2010-080_02noar.csv
+ART processed 82.03% (24832 records), PUH-2010-138_01ar.csv
+NoART processed 29.66% (24832 records), PUH-2010-080_02noar.csv
+ART processed 82.86% (25088 records), PUH-2010-138_01ar.csv
+NoART processed 29.96% (25088 records), PUH-2010-080_02noar.csv
+ART processed 83.68% (25344 records), PUH-2010-138_01ar.csv
+NoART processed 30.26% (25344 records), PUH-2010-080_02noar.csv
+ART processed 84.52% (25600 records), PUH-2010-138_01ar.csv
+NoART processed 30.57% (25600 records), PUH-2010-080_02noar.csv
+ART processed 85.35% (25856 records), PUH-2010-138_01ar.csv
+NoART processed 30.87% (25856 records), PUH-2010-080_02noar.csv
+ART processed 86.18% (26112 records), PUH-2010-138_01ar.csv
+NoART processed 31.17% (26112 records), PUH-2010-080_02noar.csv
+ART processed 86.99% (26368 records), PUH-2010-138_01ar.csv
+NoART processed 31.47% (26368 records), PUH-2010-080_02noar.csv
+ART processed 87.80% (26624 records), PUH-2010-138_01ar.csv
+NoART processed 31.77% (26624 records), PUH-2010-080_02noar.csv
+ART processed 88.61% (26880 records), PUH-2010-138_01ar.csv
+NoART processed 32.07% (26880 records), PUH-2010-080_02noar.csv
+ART processed 89.41% (27136 records), PUH-2010-138_01ar.csv
+NoART processed 32.37% (27136 records), PUH-2010-080_02noar.csv
+ART processed 90.21% (27392 records), PUH-2010-138_01ar.csv
+NoART processed 32.66% (27392 records), PUH-2010-080_02noar.csv
+ART processed 91.02% (27648 records), PUH-2010-138_01ar.csv
+NoART processed 32.96% (27648 records), PUH-2010-080_02noar.csv
+NoART processed 33.26% (27904 records), PUH-2010-080_02noar.csv
+ART processed 91.82% (27904 records), PUH-2010-138_01ar.csv
+ART processed 92.63% (28160 records), PUH-2010-138_01ar.csv
+NoART processed 33.55% (28160 records), PUH-2010-080_02noar.csv
+ART processed 93.45% (28416 records), PUH-2010-138_01ar.csv
+NoART processed 33.85% (28416 records), PUH-2010-080_02noar.csv
+ART processed 94.25% (28672 records), PUH-2010-138_01ar.csv
+NoART processed 34.15% (28672 records), PUH-2010-080_02noar.csv
+ART processed 94.97% (28928 records), PUH-2010-138_01ar.csv
+NoART processed 34.44% (28928 records), PUH-2010-080_02noar.csv
+ART processed 95.75% (29184 records), PUH-2010-138_01ar.csv
+NoART processed 34.74% (29184 records), PUH-2010-080_02noar.csv
+ART processed 96.64% (29440 records), PUH-2010-138_01ar.csv
+NoART processed 35.03% (29440 records), PUH-2010-080_02noar.csv
+ART processed 97.54% (29696 records), PUH-2010-138_01ar.csv
+NoART processed 35.32% (29696 records), PUH-2010-080_02noar.csv
+ART processed 98.38% (29952 records), PUH-2010-138_01ar.csv
+NoART processed 35.60% (29952 records), PUH-2010-080_02noar.csv
+ART processed 99.29% (30208 records), PUH-2010-138_01ar.csv
+NoART processed 35.89% (30208 records), PUH-2010-080_02noar.csv
+Finished for 'PUH-2010-138_01ar.csv'
+N:\Test_AR\PUH-2010-138_01ar.csv. Import time: 12.20 min
+
+ART processing 'PUH-2010-140_01ar.csv'
+PUH-2010-140_01ar.csv columns: 6039
+NoART processed 36.18% (30464 records), PUH-2010-080_02noar.csv
+NoART processed 36.47% (30720 records), PUH-2010-080_02noar.csv
+ART processed 0.29% (256 records), PUH-2010-140_01ar.csv
+NoART processed 36.76% (30976 records), PUH-2010-080_02noar.csv
+ART processed 0.60% (512 records), PUH-2010-140_01ar.csv
+NoART processed 37.05% (31232 records), PUH-2010-080_02noar.csv
+ART processed 0.89% (768 records), PUH-2010-140_01ar.csv
+NoART processed 37.34% (31488 records), PUH-2010-080_02noar.csv
+ART processed 1.20% (1024 records), PUH-2010-140_01ar.csv
+NoART processed 37.63% (31744 records), PUH-2010-080_02noar.csv
+ART processed 1.51% (1280 records), PUH-2010-140_01ar.csv
+NoART processed 37.91% (32000 records), PUH-2010-080_02noar.csv
+ART processed 1.81% (1536 records), PUH-2010-140_01ar.csv
+NoART processed 38.21% (32256 records), PUH-2010-080_02noar.csv
+NoART processed 38.49% (32512 records), PUH-2010-080_02noar.csv
+ART processed 2.12% (1792 records), PUH-2010-140_01ar.csv
+NoART processed 38.78% (32768 records), PUH-2010-080_02noar.csv
+ART processed 2.43% (2048 records), PUH-2010-140_01ar.csv
+NoART processed 39.07% (33024 records), PUH-2010-080_02noar.csv
+ART processed 2.74% (2304 records), PUH-2010-140_01ar.csv
+NoART processed 39.36% (33280 records), PUH-2010-080_02noar.csv
+ART processed 3.05% (2560 records), PUH-2010-140_01ar.csv
+NoART processed 39.64% (33536 records), PUH-2010-080_02noar.csv
+ART processed 3.36% (2816 records), PUH-2010-140_01ar.csv
+NoART processed 39.93% (33792 records), PUH-2010-080_02noar.csv
+ART processed 3.66% (3072 records), PUH-2010-140_01ar.csv
+NoART processed 40.23% (34048 records), PUH-2010-080_02noar.csv
+ART processed 3.97% (3328 records), PUH-2010-140_01ar.csv
+NoART processed 40.52% (34304 records), PUH-2010-080_02noar.csv
+ART processed 4.27% (3584 records), PUH-2010-140_01ar.csv
+NoART processed 40.82% (34560 records), PUH-2010-080_02noar.csv
+ART processed 4.59% (3840 records), PUH-2010-140_01ar.csv
+NoART processed 41.11% (34816 records), PUH-2010-080_02noar.csv
+ART processed 4.90% (4096 records), PUH-2010-140_01ar.csv
+NoART processed 41.40% (35072 records), PUH-2010-080_02noar.csv
+ART processed 5.21% (4352 records), PUH-2010-140_01ar.csv
+NoART processed 41.68% (35328 records), PUH-2010-080_02noar.csv
+ART processed 5.51% (4608 records), PUH-2010-140_01ar.csv
+NoART processed 41.96% (35584 records), PUH-2010-080_02noar.csv
+ART processed 5.82% (4864 records), PUH-2010-140_01ar.csv
+NoART processed 42.24% (35840 records), PUH-2010-080_02noar.csv
+ART processed 6.13% (5120 records), PUH-2010-140_01ar.csv
+NoART processed 42.53% (36096 records), PUH-2010-080_02noar.csv
+ART processed 6.43% (5376 records), PUH-2010-140_01ar.csv
+NoART processed 42.81% (36352 records), PUH-2010-080_02noar.csv
+NoART processed 43.09% (36608 records), PUH-2010-080_02noar.csv
+ART processed 6.74% (5632 records), PUH-2010-140_01ar.csv
+NoART processed 43.39% (36864 records), PUH-2010-080_02noar.csv
+ART processed 7.04% (5888 records), PUH-2010-140_01ar.csv
+NoART processed 43.68% (37120 records), PUH-2010-080_02noar.csv
+ART processed 7.34% (6144 records), PUH-2010-140_01ar.csv
+ART processed 7.63% (6400 records), PUH-2010-140_01ar.csv
+NoART processed 43.96% (37376 records), PUH-2010-080_02noar.csv
+NoART processed 44.24% (37632 records), PUH-2010-080_02noar.csv
+ART processed 7.94% (6656 records), PUH-2010-140_01ar.csv
+NoART processed 44.52% (37888 records), PUH-2010-080_02noar.csv
+ART processed 8.23% (6912 records), PUH-2010-140_01ar.csv
+NoART processed 44.80% (38144 records), PUH-2010-080_02noar.csv
+ART processed 8.53% (7168 records), PUH-2010-140_01ar.csv
+NoART processed 45.09% (38400 records), PUH-2010-080_02noar.csv
+ART processed 8.83% (7424 records), PUH-2010-140_01ar.csv
+NoART processed 45.37% (38656 records), PUH-2010-080_02noar.csv
+ART processed 9.13% (7680 records), PUH-2010-140_01ar.csv
+NoART processed 45.66% (38912 records), PUH-2010-080_02noar.csv
+ART processed 9.42% (7936 records), PUH-2010-140_01ar.csv
+NoART processed 45.96% (39168 records), PUH-2010-080_02noar.csv
+ART processed 9.72% (8192 records), PUH-2010-140_01ar.csv
+NoART processed 46.24% (39424 records), PUH-2010-080_02noar.csv
+ART processed 10.01% (8448 records), PUH-2010-140_01ar.csv
+NoART processed 46.52% (39680 records), PUH-2010-080_02noar.csv
+ART processed 10.30% (8704 records), PUH-2010-140_01ar.csv
+NoART processed 46.81% (39936 records), PUH-2010-080_02noar.csv
+ART processed 10.60% (8960 records), PUH-2010-140_01ar.csv
+NoART processed 47.10% (40192 records), PUH-2010-080_02noar.csv
+ART processed 10.90% (9216 records), PUH-2010-140_01ar.csv
+NoART processed 47.40% (40448 records), PUH-2010-080_02noar.csv
+ART processed 11.18% (9472 records), PUH-2010-140_01ar.csv
+NoART processed 47.70% (40704 records), PUH-2010-080_02noar.csv
+ART processed 11.47% (9728 records), PUH-2010-140_01ar.csv
+NoART processed 48.00% (40960 records), PUH-2010-080_02noar.csv
+ART processed 11.76% (9984 records), PUH-2010-140_01ar.csv
+NoART processed 48.29% (41216 records), PUH-2010-080_02noar.csv
+ART processed 12.05% (10240 records), PUH-2010-140_01ar.csv
+NoART processed 48.57% (41472 records), PUH-2010-080_02noar.csv
+ART processed 12.34% (10496 records), PUH-2010-140_01ar.csv
+NoART processed 48.85% (41728 records), PUH-2010-080_02noar.csv
+ART processed 12.64% (10752 records), PUH-2010-140_01ar.csv
+NoART processed 49.14% (41984 records), PUH-2010-080_02noar.csv
+ART processed 12.92% (11008 records), PUH-2010-140_01ar.csv
+NoART processed 49.42% (42240 records), PUH-2010-080_02noar.csv
+ART processed 13.21% (11264 records), PUH-2010-140_01ar.csv
+NoART processed 49.71% (42496 records), PUH-2010-080_02noar.csv
+ART processed 13.50% (11520 records), PUH-2010-140_01ar.csv
+NoART processed 50.00% (42752 records), PUH-2010-080_02noar.csv
+ART processed 13.79% (11776 records), PUH-2010-140_01ar.csv
+NoART processed 50.30% (43008 records), PUH-2010-080_02noar.csv
+ART processed 14.07% (12032 records), PUH-2010-140_01ar.csv
+NoART processed 50.59% (43264 records), PUH-2010-080_02noar.csv
+ART processed 14.35% (12288 records), PUH-2010-140_01ar.csv
+NoART processed 50.88% (43520 records), PUH-2010-080_02noar.csv
+ART processed 14.64% (12544 records), PUH-2010-140_01ar.csv
+NoART processed 51.18% (43776 records), PUH-2010-080_02noar.csv
+ART processed 14.92% (12800 records), PUH-2010-140_01ar.csv
+NoART processed 51.48% (44032 records), PUH-2010-080_02noar.csv
+ART processed 15.19% (13056 records), PUH-2010-140_01ar.csv
+NoART processed 51.78% (44288 records), PUH-2010-080_02noar.csv
+ART processed 15.47% (13312 records), PUH-2010-140_01ar.csv
+NoART processed 52.09% (44544 records), PUH-2010-080_02noar.csv
+ART processed 15.75% (13568 records), PUH-2010-140_01ar.csv
+NoART processed 52.39% (44800 records), PUH-2010-080_02noar.csv
+ART processed 16.03% (13824 records), PUH-2010-140_01ar.csv
+NoART processed 52.70% (45056 records), PUH-2010-080_02noar.csv
+ART processed 16.29% (14080 records), PUH-2010-140_01ar.csv
+NoART processed 53.00% (45312 records), PUH-2010-080_02noar.csv
+ART processed 16.56% (14336 records), PUH-2010-140_01ar.csv
+NoART processed 53.30% (45568 records), PUH-2010-080_02noar.csv
+ART processed 16.83% (14592 records), PUH-2010-140_01ar.csv
+NoART processed 53.61% (45824 records), PUH-2010-080_02noar.csv
+ART processed 17.11% (14848 records), PUH-2010-140_01ar.csv
+NoART processed 53.91% (46080 records), PUH-2010-080_02noar.csv
+ART processed 17.39% (15104 records), PUH-2010-140_01ar.csv
+NoART processed 54.22% (46336 records), PUH-2010-080_02noar.csv
+ART processed 17.66% (15360 records), PUH-2010-140_01ar.csv
+NoART processed 54.52% (46592 records), PUH-2010-080_02noar.csv
+ART processed 17.93% (15616 records), PUH-2010-140_01ar.csv
+NoART processed 54.82% (46848 records), PUH-2010-080_02noar.csv
+ART processed 18.19% (15872 records), PUH-2010-140_01ar.csv
+NoART processed 55.12% (47104 records), PUH-2010-080_02noar.csv
+ART processed 18.46% (16128 records), PUH-2010-140_01ar.csv
+NoART processed 55.43% (47360 records), PUH-2010-080_02noar.csv
+ART processed 18.74% (16384 records), PUH-2010-140_01ar.csv
+NoART processed 55.73% (47616 records), PUH-2010-080_02noar.csv
+ART processed 19.01% (16640 records), PUH-2010-140_01ar.csv
+NoART processed 56.03% (47872 records), PUH-2010-080_02noar.csv
+ART processed 19.28% (16896 records), PUH-2010-140_01ar.csv
+NoART processed 56.34% (48128 records), PUH-2010-080_02noar.csv
+ART processed 19.55% (17152 records), PUH-2010-140_01ar.csv
+NoART processed 56.64% (48384 records), PUH-2010-080_02noar.csv
+ART processed 19.81% (17408 records), PUH-2010-140_01ar.csv
+NoART processed 56.94% (48640 records), PUH-2010-080_02noar.csv
+ART processed 20.08% (17664 records), PUH-2010-140_01ar.csv
+NoART processed 57.24% (48896 records), PUH-2010-080_02noar.csv
+ART processed 20.34% (17920 records), PUH-2010-140_01ar.csv
+NoART processed 57.53% (49152 records), PUH-2010-080_02noar.csv
+ART processed 20.60% (18176 records), PUH-2010-140_01ar.csv
+NoART processed 57.83% (49408 records), PUH-2010-080_02noar.csv
+ART processed 20.86% (18432 records), PUH-2010-140_01ar.csv
+NoART processed 58.13% (49664 records), PUH-2010-080_02noar.csv
+ART processed 21.13% (18688 records), PUH-2010-140_01ar.csv
+NoART processed 58.42% (49920 records), PUH-2010-080_02noar.csv
+ART processed 21.39% (18944 records), PUH-2010-140_01ar.csv
+NoART processed 58.72% (50176 records), PUH-2010-080_02noar.csv
+ART processed 21.65% (19200 records), PUH-2010-140_01ar.csv
+NoART processed 59.02% (50432 records), PUH-2010-080_02noar.csv
+ART processed 21.91% (19456 records), PUH-2010-140_01ar.csv
+NoART processed 59.32% (50688 records), PUH-2010-080_02noar.csv
+ART processed 22.16% (19712 records), PUH-2010-140_01ar.csv
+NoART processed 59.61% (50944 records), PUH-2010-080_02noar.csv
+ART processed 22.41% (19968 records), PUH-2010-140_01ar.csv
+NoART processed 59.91% (51200 records), PUH-2010-080_02noar.csv
+ART processed 22.66% (20224 records), PUH-2010-140_01ar.csv
+NoART processed 60.21% (51456 records), PUH-2010-080_02noar.csv
+ART processed 22.91% (20480 records), PUH-2010-140_01ar.csv
+NoART processed 60.50% (51712 records), PUH-2010-080_02noar.csv
+ART processed 23.16% (20736 records), PUH-2010-140_01ar.csv
+NoART processed 60.80% (51968 records), PUH-2010-080_02noar.csv
+ART processed 23.42% (20992 records), PUH-2010-140_01ar.csv
+NoART processed 61.10% (52224 records), PUH-2010-080_02noar.csv
+ART processed 23.67% (21248 records), PUH-2010-140_01ar.csv
+NoART processed 61.40% (52480 records), PUH-2010-080_02noar.csv
+ART processed 23.92% (21504 records), PUH-2010-140_01ar.csv
+NoART processed 61.69% (52736 records), PUH-2010-080_02noar.csv
+ART processed 24.17% (21760 records), PUH-2010-140_01ar.csv
+NoART processed 61.99% (52992 records), PUH-2010-080_02noar.csv
+ART processed 24.42% (22016 records), PUH-2010-140_01ar.csv
+NoART processed 62.28% (53248 records), PUH-2010-080_02noar.csv
+ART processed 24.67% (22272 records), PUH-2010-140_01ar.csv
+NoART processed 62.58% (53504 records), PUH-2010-080_02noar.csv
+ART processed 24.92% (22528 records), PUH-2010-140_01ar.csv
+NoART processed 62.88% (53760 records), PUH-2010-080_02noar.csv
+ART processed 25.17% (22784 records), PUH-2010-140_01ar.csv
+NoART processed 63.18% (54016 records), PUH-2010-080_02noar.csv
+ART processed 25.41% (23040 records), PUH-2010-140_01ar.csv
+NoART processed 63.47% (54272 records), PUH-2010-080_02noar.csv
+ART processed 25.67% (23296 records), PUH-2010-140_01ar.csv
+NoART processed 63.76% (54528 records), PUH-2010-080_02noar.csv
+ART processed 25.92% (23552 records), PUH-2010-140_01ar.csv
+NoART processed 64.04% (54784 records), PUH-2010-080_02noar.csv
+ART processed 26.17% (23808 records), PUH-2010-140_01ar.csv
+NoART processed 64.33% (55040 records), PUH-2010-080_02noar.csv
+ART processed 26.42% (24064 records), PUH-2010-140_01ar.csv
+NoART processed 64.62% (55296 records), PUH-2010-080_02noar.csv
+ART processed 26.67% (24320 records), PUH-2010-140_01ar.csv
+NoART processed 64.92% (55552 records), PUH-2010-080_02noar.csv
+ART processed 26.92% (24576 records), PUH-2010-140_01ar.csv
+NoART processed 65.21% (55808 records), PUH-2010-080_02noar.csv
+ART processed 27.13% (24832 records), PUH-2010-140_01ar.csv
+NoART processed 65.51% (56064 records), PUH-2010-080_02noar.csv
+ART processed 27.28% (25088 records), PUH-2010-140_01ar.csv
+NoART processed 65.80% (56320 records), PUH-2010-080_02noar.csv
+ART processed 27.47% (25344 records), PUH-2010-140_01ar.csv
+NoART processed 66.09% (56576 records), PUH-2010-080_02noar.csv
+ART processed 27.69% (25600 records), PUH-2010-140_01ar.csv
+NoART processed 66.39% (56832 records), PUH-2010-080_02noar.csv
+ART processed 27.95% (25856 records), PUH-2010-140_01ar.csv
+NoART processed 66.68% (57088 records), PUH-2010-080_02noar.csv
+ART processed 28.18% (26112 records), PUH-2010-140_01ar.csv
+NoART processed 66.98% (57344 records), PUH-2010-080_02noar.csv
+ART processed 28.43% (26368 records), PUH-2010-140_01ar.csv
+ART processed 28.69% (26624 records), PUH-2010-140_01ar.csv
+NoART processed 67.27% (57600 records), PUH-2010-080_02noar.csv
+ART processed 28.94% (26880 records), PUH-2010-140_01ar.csv
+NoART processed 67.57% (57856 records), PUH-2010-080_02noar.csv
+ART processed 29.20% (27136 records), PUH-2010-140_01ar.csv
+NoART processed 67.86% (58112 records), PUH-2010-080_02noar.csv
+ART processed 29.45% (27392 records), PUH-2010-140_01ar.csv
+NoART processed 68.16% (58368 records), PUH-2010-080_02noar.csv
+ART processed 29.71% (27648 records), PUH-2010-140_01ar.csv
+NoART processed 68.45% (58624 records), PUH-2010-080_02noar.csv
+ART processed 29.97% (27904 records), PUH-2010-140_01ar.csv
+NoART processed 68.75% (58880 records), PUH-2010-080_02noar.csv
+NoART processed 69.04% (59136 records), PUH-2010-080_02noar.csv
+ART processed 30.22% (28160 records), PUH-2010-140_01ar.csv
+ART processed 30.48% (28416 records), PUH-2010-140_01ar.csv
+NoART processed 69.34% (59392 records), PUH-2010-080_02noar.csv
+ART processed 30.75% (28672 records), PUH-2010-140_01ar.csv
+NoART processed 69.63% (59648 records), PUH-2010-080_02noar.csv
+ART processed 31.01% (28928 records), PUH-2010-140_01ar.csv
+NoART processed 69.93% (59904 records), PUH-2010-080_02noar.csv
+NoART processed 70.22% (60160 records), PUH-2010-080_02noar.csv
+ART processed 31.26% (29184 records), PUH-2010-140_01ar.csv
+NoART processed 70.51% (60416 records), PUH-2010-080_02noar.csv
+ART processed 31.52% (29440 records), PUH-2010-140_01ar.csv
+ART processed 31.78% (29696 records), PUH-2010-140_01ar.csv
+NoART processed 70.80% (60672 records), PUH-2010-080_02noar.csv
+NoART processed 71.09% (60928 records), PUH-2010-080_02noar.csv
+ART processed 32.04% (29952 records), PUH-2010-140_01ar.csv
+NoART processed 71.39% (61184 records), PUH-2010-080_02noar.csv
+ART processed 32.30% (30208 records), PUH-2010-140_01ar.csv
+NoART processed 71.68% (61440 records), PUH-2010-080_02noar.csv
+ART processed 32.55% (30464 records), PUH-2010-140_01ar.csv
+NoART processed 71.97% (61696 records), PUH-2010-080_02noar.csv
+ART processed 32.81% (30720 records), PUH-2010-140_01ar.csv
+ART processed 33.07% (30976 records), PUH-2010-140_01ar.csv
+NoART processed 72.26% (61952 records), PUH-2010-080_02noar.csv
+NoART processed 72.55% (62208 records), PUH-2010-080_02noar.csv
+ART processed 33.32% (31232 records), PUH-2010-140_01ar.csv
+ART processed 33.58% (31488 records), PUH-2010-140_01ar.csv
+NoART processed 72.84% (62464 records), PUH-2010-080_02noar.csv
+ART processed 33.83% (31744 records), PUH-2010-140_01ar.csv
+NoART processed 73.14% (62720 records), PUH-2010-080_02noar.csv
+ART processed 34.09% (32000 records), PUH-2010-140_01ar.csv
+NoART processed 73.43% (62976 records), PUH-2010-080_02noar.csv
+NoART processed 73.72% (63232 records), PUH-2010-080_02noar.csv
+ART processed 34.34% (32256 records), PUH-2010-140_01ar.csv
+NoART processed 74.01% (63488 records), PUH-2010-080_02noar.csv
+ART processed 34.60% (32512 records), PUH-2010-140_01ar.csv
+NoART processed 74.30% (63744 records), PUH-2010-080_02noar.csv
+ART processed 34.85% (32768 records), PUH-2010-140_01ar.csv
+NoART processed 74.60% (64000 records), PUH-2010-080_02noar.csv
+ART processed 35.10% (33024 records), PUH-2010-140_01ar.csv
+NoART processed 74.89% (64256 records), PUH-2010-080_02noar.csv
+ART processed 35.35% (33280 records), PUH-2010-140_01ar.csv
+ART processed 35.61% (33536 records), PUH-2010-140_01ar.csv
+NoART processed 75.18% (64512 records), PUH-2010-080_02noar.csv
+ART processed 35.86% (33792 records), PUH-2010-140_01ar.csv
+NoART processed 75.47% (64768 records), PUH-2010-080_02noar.csv
+NoART processed 75.77% (65024 records), PUH-2010-080_02noar.csv
+ART processed 36.11% (34048 records), PUH-2010-140_01ar.csv
+ART processed 36.37% (34304 records), PUH-2010-140_01ar.csv
+NoART processed 76.06% (65280 records), PUH-2010-080_02noar.csv
+NoART processed 76.36% (65536 records), PUH-2010-080_02noar.csv
+ART processed 36.62% (34560 records), PUH-2010-140_01ar.csv
+ART processed 36.88% (34816 records), PUH-2010-140_01ar.csv
+NoART processed 76.65% (65792 records), PUH-2010-080_02noar.csv
+NoART processed 76.95% (66048 records), PUH-2010-080_02noar.csv
+ART processed 37.14% (35072 records), PUH-2010-140_01ar.csv
+NoART processed 77.24% (66304 records), PUH-2010-080_02noar.csv
+ART processed 37.39% (35328 records), PUH-2010-140_01ar.csv
+NoART processed 77.53% (66560 records), PUH-2010-080_02noar.csv
+ART processed 37.65% (35584 records), PUH-2010-140_01ar.csv
+NoART processed 77.82% (66816 records), PUH-2010-080_02noar.csv
+ART processed 37.91% (35840 records), PUH-2010-140_01ar.csv
+NoART processed 78.11% (67072 records), PUH-2010-080_02noar.csv
+ART processed 38.16% (36096 records), PUH-2010-140_01ar.csv
+NoART processed 78.40% (67328 records), PUH-2010-080_02noar.csv
+ART processed 38.42% (36352 records), PUH-2010-140_01ar.csv
+NoART processed 78.69% (67584 records), PUH-2010-080_02noar.csv
+ART processed 38.67% (36608 records), PUH-2010-140_01ar.csv
+NoART processed 78.99% (67840 records), PUH-2010-080_02noar.csv
+ART processed 38.93% (36864 records), PUH-2010-140_01ar.csv
+NoART processed 79.28% (68096 records), PUH-2010-080_02noar.csv
+ART processed 39.19% (37120 records), PUH-2010-140_01ar.csv
+NoART processed 79.57% (68352 records), PUH-2010-080_02noar.csv
+ART processed 39.44% (37376 records), PUH-2010-140_01ar.csv
+NoART processed 79.86% (68608 records), PUH-2010-080_02noar.csv
+ART processed 39.70% (37632 records), PUH-2010-140_01ar.csv
+NoART processed 80.15% (68864 records), PUH-2010-080_02noar.csv
+ART processed 39.96% (37888 records), PUH-2010-140_01ar.csv
+NoART processed 80.45% (69120 records), PUH-2010-080_02noar.csv
+ART processed 40.21% (38144 records), PUH-2010-140_01ar.csv
+NoART processed 80.74% (69376 records), PUH-2010-080_02noar.csv
+org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: Read timed out
+	at org.influxdb.impl.InfluxDBImpl.execute(InfluxDBImpl.java:541)
+	at org.influxdb.impl.InfluxDBImpl.write(InfluxDBImpl.java:312)
+	at app.service.ImportCsvService.importProc(ImportCsvService.java:161)
+	at app.service.ImportCsvService.ImportByFile(ImportCsvService.java:196)
+	at app.service.ImportCsvService.ImportByList(ImportCsvService.java:213)
+	at app.service.ImportCsvService$2.run(ImportCsvService.java:235)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at okio.Okio$2.read(Okio.java:139)
+	at okio.AsyncTimeout$2.read(AsyncTimeout.java:237)
+	at okio.RealBufferedSource.indexOf(RealBufferedSource.java:345)
+	at okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:217)
+	at okhttp3.internal.http1.Http1Codec.readHeaderLine(Http1Codec.java:212)
+	at okhttp3.internal.http1.Http1Codec.readResponseHeaders(Http1Codec.java:189)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.java:88)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:45)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at org.influxdb.impl.GzipRequestInterceptor.intercept(GzipRequestInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.logging.HttpLoggingInterceptor.intercept(HttpLoggingInterceptor.java:143)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at retrofit2.OkHttpCall.execute(OkHttpCall.java:180)
+	at org.influxdb.impl.InfluxDBImpl.execute(InfluxDBImpl.java:533)
+	... 6 more
+ART processing 'PUH-2010-140_2ar.csv'
+PUH-2010-140_2ar.csv columns: 6039
+NoART processed 81.04% (69632 records), PUH-2010-080_02noar.csv
+ART processed 1.78% (256 records), PUH-2010-140_2ar.csv
+NoART processed 81.33% (69888 records), PUH-2010-080_02noar.csv
+ART processed 3.57% (512 records), PUH-2010-140_2ar.csv
+NoART processed 81.62% (70144 records), PUH-2010-080_02noar.csv
+ART processing 'PUH-2010-141_01ar.csv'
+org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: timeout
+	at org.influxdb.impl.InfluxDBImpl.execute(InfluxDBImpl.java:541)
+	at org.influxdb.impl.InfluxDBImpl.write(InfluxDBImpl.java:312)
+	at app.service.ImportCsvService.importProc(ImportCsvService.java:161)
+	at app.service.ImportCsvService.ImportByFile(ImportCsvService.java:196)
+	at app.service.ImportCsvService.ImportByList(ImportCsvService.java:213)
+	at app.service.ImportCsvService$2.run(ImportCsvService.java:235)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketTimeoutException: timeout
+	at okio.Okio$4.newTimeoutException(Okio.java:230)
+	at okio.AsyncTimeout.exit(AsyncTimeout.java:285)
+	at okio.AsyncTimeout$2.read(AsyncTimeout.java:241)
+	at okio.RealBufferedSource.indexOf(RealBufferedSource.java:345)
+	at okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:217)
+	at okhttp3.internal.http1.Http1Codec.readHeaderLine(Http1Codec.java:212)
+	at okhttp3.internal.http1.Http1Codec.readResponseHeaders(Http1Codec.java:189)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.java:88)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:45)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at org.influxdb.impl.GzipRequestInterceptor.intercept(GzipRequestInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.logging.HttpLoggingInterceptor.intercept(HttpLoggingInterceptor.java:143)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at retrofit2.OkHttpCall.execute(OkHttpCall.java:180)
+	at org.influxdb.impl.InfluxDBImpl.execute(InfluxDBImpl.java:533)
+	... 6 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at okio.Okio$2.read(Okio.java:139)
+	at okio.AsyncTimeout$2.read(AsyncTimeout.java:237)
+	... 33 more
+PUH-2010-141_01ar.csv columns: 6039
+NoART processed 81.91% (70400 records), PUH-2010-080_02noar.csv
+ART processed 1.07% (256 records), PUH-2010-141_01ar.csv
+NoART processed 82.21% (70656 records), PUH-2010-080_02noar.csv
+ART processed 2.06% (512 records), PUH-2010-141_01ar.csv
+NoART processed 82.50% (70912 records), PUH-2010-080_02noar.csv
+ART processed 3.06% (768 records), PUH-2010-141_01ar.csv
+NoART processed 82.79% (71168 records), PUH-2010-080_02noar.csv
+ART processed 4.05% (1024 records), PUH-2010-141_01ar.csv
+NoART processed 83.08% (71424 records), PUH-2010-080_02noar.csv
+ART processed 5.14% (1280 records), PUH-2010-141_01ar.csv
+NoART processed 83.36% (71680 records), PUH-2010-080_02noar.csv
+ART processed 6.27% (1536 records), PUH-2010-141_01ar.csv
+NoART processed 83.65% (71936 records), PUH-2010-080_02noar.csv
+ART processed 7.43% (1792 records), PUH-2010-141_01ar.csv
+NoART processed 83.94% (72192 records), PUH-2010-080_02noar.csv
+ART processed 8.58% (2048 records), PUH-2010-141_01ar.csv
+NoART processed 84.22% (72448 records), PUH-2010-080_02noar.csv
+ART processed 9.73% (2304 records), PUH-2010-141_01ar.csv
+NoART processed 84.51% (72704 records), PUH-2010-080_02noar.csv
+ART processed 10.89% (2560 records), PUH-2010-141_01ar.csv
+NoART processed 84.80% (72960 records), PUH-2010-080_02noar.csv
+ART processed 12.05% (2816 records), PUH-2010-141_01ar.csv
+NoART processed 85.09% (73216 records), PUH-2010-080_02noar.csv
+ART processed 13.21% (3072 records), PUH-2010-141_01ar.csv
+NoART processed 85.38% (73472 records), PUH-2010-080_02noar.csv
+ART processed 14.38% (3328 records), PUH-2010-141_01ar.csv
+NoART processed 85.67% (73728 records), PUH-2010-080_02noar.csv
+ART processed 15.54% (3584 records), PUH-2010-141_01ar.csv
+NoART processed 85.97% (73984 records), PUH-2010-080_02noar.csv
+ART processed 16.70% (3840 records), PUH-2010-141_01ar.csv
+NoART processed 86.27% (74240 records), PUH-2010-080_02noar.csv
+ART processed 17.87% (4096 records), PUH-2010-141_01ar.csv
+NoART processed 86.56% (74496 records), PUH-2010-080_02noar.csv
+ART processed 19.04% (4352 records), PUH-2010-141_01ar.csv
+NoART processed 86.84% (74752 records), PUH-2010-080_02noar.csv
+ART processed 20.19% (4608 records), PUH-2010-141_01ar.csv
+NoART processed 87.13% (75008 records), PUH-2010-080_02noar.csv
+ART processed 21.35% (4864 records), PUH-2010-141_01ar.csv
+NoART processed 87.42% (75264 records), PUH-2010-080_02noar.csv
+ART processed 22.51% (5120 records), PUH-2010-141_01ar.csv
+NoART processed 87.72% (75520 records), PUH-2010-080_02noar.csv
+ART processed 23.68% (5376 records), PUH-2010-141_01ar.csv
+NoART processed 88.01% (75776 records), PUH-2010-080_02noar.csv
+ART processed 24.85% (5632 records), PUH-2010-141_01ar.csv
+NoART processed 88.30% (76032 records), PUH-2010-080_02noar.csv
+ART processed 26.01% (5888 records), PUH-2010-141_01ar.csv
+NoART processed 88.59% (76288 records), PUH-2010-080_02noar.csv
+NoART processed 88.88% (76544 records), PUH-2010-080_02noar.csv
+ART processed 27.18% (6144 records), PUH-2010-141_01ar.csv
+NoART processed 89.18% (76800 records), PUH-2010-080_02noar.csv
+ART processed 28.31% (6400 records), PUH-2010-141_01ar.csv
+NoART processed 89.47% (77056 records), PUH-2010-080_02noar.csv
+ART processed 29.41% (6656 records), PUH-2010-141_01ar.csv
+NoART processed 89.76% (77312 records), PUH-2010-080_02noar.csv
+ART processed 30.49% (6912 records), PUH-2010-141_01ar.csv
+NoART processed 90.05% (77568 records), PUH-2010-080_02noar.csv
+ART processed 31.56% (7168 records), PUH-2010-141_01ar.csv
+NoART processed 90.33% (77824 records), PUH-2010-080_02noar.csv
+ART processed 32.67% (7424 records), PUH-2010-141_01ar.csv
+NoART processed 90.62% (78080 records), PUH-2010-080_02noar.csv
+ART processed 33.78% (7680 records), PUH-2010-141_01ar.csv
+NoART processed 90.91% (78336 records), PUH-2010-080_02noar.csv
+ART processed 34.89% (7936 records), PUH-2010-141_01ar.csv
+NoART processed 91.20% (78592 records), PUH-2010-080_02noar.csv
+ART processed 36.00% (8192 records), PUH-2010-141_01ar.csv
+NoART processed 91.49% (78848 records), PUH-2010-080_02noar.csv
+ART processed 37.10% (8448 records), PUH-2010-141_01ar.csv
+NoART processed 91.78% (79104 records), PUH-2010-080_02noar.csv
+ART processed 38.21% (8704 records), PUH-2010-141_01ar.csv
+NoART processed 92.07% (79360 records), PUH-2010-080_02noar.csv
+ART processed 39.31% (8960 records), PUH-2010-141_01ar.csv
+NoART processed 92.36% (79616 records), PUH-2010-080_02noar.csv
+ART processed 40.41% (9216 records), PUH-2010-141_01ar.csv
+NoART processed 92.65% (79872 records), PUH-2010-080_02noar.csv
+ART processed 41.51% (9472 records), PUH-2010-141_01ar.csv
+NoART processed 92.94% (80128 records), PUH-2010-080_02noar.csv
+ART processed 42.59% (9728 records), PUH-2010-141_01ar.csv
+NoART processed 93.23% (80384 records), PUH-2010-080_02noar.csv
+ART processed 43.69% (9984 records), PUH-2010-141_01ar.csv
+NoART processed 93.52% (80640 records), PUH-2010-080_02noar.csv
+ART processed 44.77% (10240 records), PUH-2010-141_01ar.csv
+NoART processed 93.82% (80896 records), PUH-2010-080_02noar.csv
+ART processed 45.85% (10496 records), PUH-2010-141_01ar.csv
+NoART processed 94.11% (81152 records), PUH-2010-080_02noar.csv
+ART processed 46.93% (10752 records), PUH-2010-141_01ar.csv
+NoART processed 94.40% (81408 records), PUH-2010-080_02noar.csv
+ART processed 48.01% (11008 records), PUH-2010-141_01ar.csv
+NoART processed 94.70% (81664 records), PUH-2010-080_02noar.csv
+NoART processed 94.99% (81920 records), PUH-2010-080_02noar.csv
+ART processed 49.09% (11264 records), PUH-2010-141_01ar.csv
+NoART processed 95.28% (82176 records), PUH-2010-080_02noar.csv
+ART processed 50.18% (11520 records), PUH-2010-141_01ar.csv
+NoART processed 95.58% (82432 records), PUH-2010-080_02noar.csv
+ART processed 51.25% (11776 records), PUH-2010-141_01ar.csv
+NoART processed 95.87% (82688 records), PUH-2010-080_02noar.csv
+ART processed 52.33% (12032 records), PUH-2010-141_01ar.csv
+NoART processed 96.16% (82944 records), PUH-2010-080_02noar.csv
+ART processed 53.41% (12288 records), PUH-2010-141_01ar.csv
+NoART processed 96.46% (83200 records), PUH-2010-080_02noar.csv
+ART processed 54.49% (12544 records), PUH-2010-141_01ar.csv
+NoART processed 96.76% (83456 records), PUH-2010-080_02noar.csv
+ART processed 55.57% (12800 records), PUH-2010-141_01ar.csv
+NoART processed 97.06% (83712 records), PUH-2010-080_02noar.csv
+ART processed 56.63% (13056 records), PUH-2010-141_01ar.csv
+NoART processed 97.36% (83968 records), PUH-2010-080_02noar.csv
+ART processed 57.71% (13312 records), PUH-2010-141_01ar.csv
+NoART processed 97.65% (84224 records), PUH-2010-080_02noar.csv
+ART processed 58.79% (13568 records), PUH-2010-141_01ar.csv
+NoART processed 97.96% (84480 records), PUH-2010-080_02noar.csv
+ART processed 59.86% (13824 records), PUH-2010-141_01ar.csv
+NoART processed 98.26% (84736 records), PUH-2010-080_02noar.csv
+ART processed 60.93% (14080 records), PUH-2010-141_01ar.csv
+NoART processed 98.56% (84992 records), PUH-2010-080_02noar.csv
+ART processed 62.00% (14336 records), PUH-2010-141_01ar.csv
+NoART processed 98.85% (85248 records), PUH-2010-080_02noar.csv
+ART processed 63.07% (14592 records), PUH-2010-141_01ar.csv
+NoART processed 99.15% (85504 records), PUH-2010-080_02noar.csv
+ART processed 64.11% (14848 records), PUH-2010-141_01ar.csv
+NoART processed 99.45% (85760 records), PUH-2010-080_02noar.csv
+ART processed 65.14% (15104 records), PUH-2010-141_01ar.csv
+NoART processed 99.75% (86016 records), PUH-2010-080_02noar.csv
+ART processed 66.17% (15360 records), PUH-2010-141_01ar.csv
+Finished for 'PUH-2010-080_02noar.csv'
+N:\Test_NoAR\PUH-2010-080_02noar.csv. Import time: 33.69 min
+
+NoART processing 'PUH-2010-080_03noar.csv'
+PUH-2010-080_03noar.csv columns: 6039
+ART processed 67.21% (15616 records), PUH-2010-141_01ar.csv
+NoART processed 0.93% (256 records), PUH-2010-080_03noar.csv
+ART processed 68.25% (15872 records), PUH-2010-141_01ar.csv
+NoART processed 1.84% (512 records), PUH-2010-080_03noar.csv
+ART processed 69.31% (16128 records), PUH-2010-141_01ar.csv
+NoART processed 2.76% (768 records), PUH-2010-080_03noar.csv
+ART processed 70.41% (16384 records), PUH-2010-141_01ar.csv
+NoART processed 3.68% (1024 records), PUH-2010-080_03noar.csv
+ART processed 71.50% (16640 records), PUH-2010-141_01ar.csv
+NoART processed 4.60% (1280 records), PUH-2010-080_03noar.csv
+ART processed 72.57% (16896 records), PUH-2010-141_01ar.csv
+NoART processed 5.52% (1536 records), PUH-2010-080_03noar.csv
+ART processed 73.65% (17152 records), PUH-2010-141_01ar.csv
+NoART processed 6.44% (1792 records), PUH-2010-080_03noar.csv
+ART processed 74.74% (17408 records), PUH-2010-141_01ar.csv
+NoART processed 7.36% (2048 records), PUH-2010-080_03noar.csv
+ART processed 75.82% (17664 records), PUH-2010-141_01ar.csv
+NoART processed 8.28% (2304 records), PUH-2010-080_03noar.csv
+ART processed 76.90% (17920 records), PUH-2010-141_01ar.csv
+NoART processed 9.20% (2560 records), PUH-2010-080_03noar.csv
+ART processed 77.94% (18176 records), PUH-2010-141_01ar.csv
+NoART processed 10.12% (2816 records), PUH-2010-080_03noar.csv
+ART processed 79.00% (18432 records), PUH-2010-141_01ar.csv
+NoART processed 11.04% (3072 records), PUH-2010-080_03noar.csv
+ART processed 80.02% (18688 records), PUH-2010-141_01ar.csv
+NoART processed 11.94% (3328 records), PUH-2010-080_03noar.csv
+ART processed 81.06% (18944 records), PUH-2010-141_01ar.csv
+NoART processed 12.84% (3584 records), PUH-2010-080_03noar.csv
+ART processed 82.10% (19200 records), PUH-2010-141_01ar.csv
+NoART processed 13.76% (3840 records), PUH-2010-080_03noar.csv
+ART processed 83.12% (19456 records), PUH-2010-141_01ar.csv
+NoART processed 14.69% (4096 records), PUH-2010-080_03noar.csv
+ART processed 84.16% (19712 records), PUH-2010-141_01ar.csv
+NoART processed 15.60% (4352 records), PUH-2010-080_03noar.csv
+ART processed 85.21% (19968 records), PUH-2010-141_01ar.csv
+NoART processed 16.51% (4608 records), PUH-2010-080_03noar.csv
+ART processed 86.25% (20224 records), PUH-2010-141_01ar.csv
+NoART processed 17.41% (4864 records), PUH-2010-080_03noar.csv
+ART processed 87.31% (20480 records), PUH-2010-141_01ar.csv
+NoART processed 18.31% (5120 records), PUH-2010-080_03noar.csv
+ART processed 88.36% (20736 records), PUH-2010-141_01ar.csv
+NoART processed 19.22% (5376 records), PUH-2010-080_03noar.csv
+ART processed 89.41% (20992 records), PUH-2010-141_01ar.csv
+NoART processed 20.12% (5632 records), PUH-2010-080_03noar.csv
+ART processed 90.46% (21248 records), PUH-2010-141_01ar.csv
+NoART processed 21.03% (5888 records), PUH-2010-080_03noar.csv
+ART processed 91.50% (21504 records), PUH-2010-141_01ar.csv
+NoART processed 21.93% (6144 records), PUH-2010-080_03noar.csv
+ART processed 92.54% (21760 records), PUH-2010-141_01ar.csv
+NoART processed 22.84% (6400 records), PUH-2010-080_03noar.csv
+ART processed 93.60% (22016 records), PUH-2010-141_01ar.csv
+NoART processed 23.75% (6656 records), PUH-2010-080_03noar.csv
+ART processed 94.63% (22272 records), PUH-2010-141_01ar.csv
+NoART processed 24.67% (6912 records), PUH-2010-080_03noar.csv
+ART processed 95.64% (22528 records), PUH-2010-141_01ar.csv
+NoART processed 25.60% (7168 records), PUH-2010-080_03noar.csv
+ART processed 96.67% (22784 records), PUH-2010-141_01ar.csv
+NoART processed 26.50% (7424 records), PUH-2010-080_03noar.csv
+NoART processed 27.40% (7680 records), PUH-2010-080_03noar.csv
+ART processed 97.69% (23040 records), PUH-2010-141_01ar.csv
+NoART processed 28.31% (7936 records), PUH-2010-080_03noar.csv
+ART processed 98.72% (23296 records), PUH-2010-141_01ar.csv
+NoART processed 29.21% (8192 records), PUH-2010-080_03noar.csv
+ART processed 99.77% (23552 records), PUH-2010-141_01ar.csv
+Finished for 'PUH-2010-141_01ar.csv'
+N:\Test_AR\PUH-2010-141_01ar.csv. Import time: 9.25 min
+
+ART processing 'PUH-2010-141_02ar.csv'
+PUH-2010-141_02ar.csv columns: 6039
+NoART processed 30.12% (8448 records), PUH-2010-080_03noar.csv
+ART processed 0.41% (256 records), PUH-2010-141_02ar.csv
+NoART processed 31.02% (8704 records), PUH-2010-080_03noar.csv
+ART processed 0.82% (512 records), PUH-2010-141_02ar.csv
+NoART processed 31.93% (8960 records), PUH-2010-080_03noar.csv
+ART processed 1.23% (768 records), PUH-2010-141_02ar.csv
+NoART processed 32.83% (9216 records), PUH-2010-080_03noar.csv
+ART processed 1.64% (1024 records), PUH-2010-141_02ar.csv
+NoART processed 33.73% (9472 records), PUH-2010-080_03noar.csv
+ART processed 2.04% (1280 records), PUH-2010-141_02ar.csv
+NoART processed 34.64% (9728 records), PUH-2010-080_03noar.csv
+ART processed 2.45% (1536 records), PUH-2010-141_02ar.csv
+NoART processed 35.54% (9984 records), PUH-2010-080_03noar.csv
+ART processed 2.86% (1792 records), PUH-2010-141_02ar.csv
+NoART processed 36.44% (10240 records), PUH-2010-080_03noar.csv
+ART processed 3.26% (2048 records), PUH-2010-141_02ar.csv
+NoART processed 37.34% (10496 records), PUH-2010-080_03noar.csv
+ART processed 3.66% (2304 records), PUH-2010-141_02ar.csv
+NoART processed 38.25% (10752 records), PUH-2010-080_03noar.csv
+ART processed 4.04% (2560 records), PUH-2010-141_02ar.csv
+NoART processed 39.15% (11008 records), PUH-2010-080_03noar.csv
+ART processed 4.43% (2816 records), PUH-2010-141_02ar.csv
+NoART processed 40.06% (11264 records), PUH-2010-080_03noar.csv
+ART processed 4.82% (3072 records), PUH-2010-141_02ar.csv
+NoART processed 40.96% (11520 records), PUH-2010-080_03noar.csv
+ART processed 5.20% (3328 records), PUH-2010-141_02ar.csv
+NoART processed 41.86% (11776 records), PUH-2010-080_03noar.csv
+ART processed 5.59% (3584 records), PUH-2010-141_02ar.csv
+NoART processed 42.77% (12032 records), PUH-2010-080_03noar.csv
+ART processed 5.99% (3840 records), PUH-2010-141_02ar.csv
+NoART processed 43.68% (12288 records), PUH-2010-080_03noar.csv
+ART processed 6.38% (4096 records), PUH-2010-141_02ar.csv
+NoART processed 44.58% (12544 records), PUH-2010-080_03noar.csv
+ART processed 6.79% (4352 records), PUH-2010-141_02ar.csv
+NoART processed 45.49% (12800 records), PUH-2010-080_03noar.csv
+ART processed 7.19% (4608 records), PUH-2010-141_02ar.csv
+NoART processed 46.40% (13056 records), PUH-2010-080_03noar.csv
+ART processed 7.60% (4864 records), PUH-2010-141_02ar.csv
+NoART processed 47.32% (13312 records), PUH-2010-080_03noar.csv
+ART processed 8.00% (5120 records), PUH-2010-141_02ar.csv
+NoART processed 48.24% (13568 records), PUH-2010-080_03noar.csv
+ART processed 8.40% (5376 records), PUH-2010-141_02ar.csv
+NoART processed 49.17% (13824 records), PUH-2010-080_03noar.csv
+ART processed 8.80% (5632 records), PUH-2010-141_02ar.csv
+NoART processed 50.10% (14080 records), PUH-2010-080_03noar.csv
+ART processed 9.19% (5888 records), PUH-2010-141_02ar.csv
+NoART processed 51.03% (14336 records), PUH-2010-080_03noar.csv
+ART processed 9.59% (6144 records), PUH-2010-141_02ar.csv
+NoART processed 51.96% (14592 records), PUH-2010-080_03noar.csv
+ART processed 9.98% (6400 records), PUH-2010-141_02ar.csv
+NoART processed 52.90% (14848 records), PUH-2010-080_03noar.csv
+ART processed 10.36% (6656 records), PUH-2010-141_02ar.csv
+NoART processed 53.84% (15104 records), PUH-2010-080_03noar.csv
+ART processed 10.74% (6912 records), PUH-2010-141_02ar.csv
+NoART processed 54.80% (15360 records), PUH-2010-080_03noar.csv
+ART processed 11.09% (7168 records), PUH-2010-141_02ar.csv
+NoART processed 55.75% (15616 records), PUH-2010-080_03noar.csv
+ART processed 11.45% (7424 records), PUH-2010-141_02ar.csv
+NoART processed 56.74% (15872 records), PUH-2010-080_03noar.csv
+ART processed 11.82% (7680 records), PUH-2010-141_02ar.csv
+NoART processed 57.69% (16128 records), PUH-2010-080_03noar.csv
+ART processed 12.20% (7936 records), PUH-2010-141_02ar.csv
+NoART processed 58.65% (16384 records), PUH-2010-080_03noar.csv
+ART processed 12.58% (8192 records), PUH-2010-141_02ar.csv
+NoART processed 59.61% (16640 records), PUH-2010-080_03noar.csv
+ART processed 12.96% (8448 records), PUH-2010-141_02ar.csv
+NoART processed 60.55% (16896 records), PUH-2010-080_03noar.csv
+ART processed 13.34% (8704 records), PUH-2010-141_02ar.csv
+NoART processed 61.52% (17152 records), PUH-2010-080_03noar.csv
+ART processed 13.72% (8960 records), PUH-2010-141_02ar.csv
+NoART processed 62.49% (17408 records), PUH-2010-080_03noar.csv
+ART processed 14.11% (9216 records), PUH-2010-141_02ar.csv
+NoART processed 63.45% (17664 records), PUH-2010-080_03noar.csv
+ART processed 14.50% (9472 records), PUH-2010-141_02ar.csv
+NoART processed 64.41% (17920 records), PUH-2010-080_03noar.csv
+ART processed 14.89% (9728 records), PUH-2010-141_02ar.csv
+NoART processed 65.39% (18176 records), PUH-2010-080_03noar.csv
+ART processed 15.28% (9984 records), PUH-2010-141_02ar.csv
+NoART processed 66.38% (18432 records), PUH-2010-080_03noar.csv
+ART processed 15.68% (10240 records), PUH-2010-141_02ar.csv
+NoART processed 67.36% (18688 records), PUH-2010-080_03noar.csv
+ART processed 16.07% (10496 records), PUH-2010-141_02ar.csv
+NoART processed 68.35% (18944 records), PUH-2010-080_03noar.csv
+ART processed 16.46% (10752 records), PUH-2010-141_02ar.csv
+NoART processed 69.35% (19200 records), PUH-2010-080_03noar.csv
+ART processed 16.85% (11008 records), PUH-2010-141_02ar.csv
+NoART processed 70.34% (19456 records), PUH-2010-080_03noar.csv
+ART processed 17.25% (11264 records), PUH-2010-141_02ar.csv
+NoART processed 71.34% (19712 records), PUH-2010-080_03noar.csv
+ART processed 17.63% (11520 records), PUH-2010-141_02ar.csv
+NoART processed 72.33% (19968 records), PUH-2010-080_03noar.csv
+ART processed 18.00% (11776 records), PUH-2010-141_02ar.csv
+NoART processed 73.33% (20224 records), PUH-2010-080_03noar.csv
+ART processed 18.38% (12032 records), PUH-2010-141_02ar.csv
+NoART processed 74.31% (20480 records), PUH-2010-080_03noar.csv
+ART processed 18.76% (12288 records), PUH-2010-141_02ar.csv
+NoART processed 75.12% (20736 records), PUH-2010-080_03noar.csv
+ART processed 19.13% (12544 records), PUH-2010-141_02ar.csv
+NoART processed 75.93% (20992 records), PUH-2010-080_03noar.csv
+ART processed 19.51% (12800 records), PUH-2010-141_02ar.csv
+NoART processed 76.74% (21248 records), PUH-2010-080_03noar.csv
+ART processed 19.89% (13056 records), PUH-2010-141_02ar.csv
+NoART processed 77.56% (21504 records), PUH-2010-080_03noar.csv
+ART processed 20.27% (13312 records), PUH-2010-141_02ar.csv
+NoART processed 78.37% (21760 records), PUH-2010-080_03noar.csv
+ART processed 20.66% (13568 records), PUH-2010-141_02ar.csv
+NoART processed 79.20% (22016 records), PUH-2010-080_03noar.csv
+ART processed 21.04% (13824 records), PUH-2010-141_02ar.csv
+NoART processed 80.01% (22272 records), PUH-2010-080_03noar.csv
+ART processed 21.41% (14080 records), PUH-2010-141_02ar.csv
+NoART processed 80.81% (22528 records), PUH-2010-080_03noar.csv
+ART processed 21.79% (14336 records), PUH-2010-141_02ar.csv
+NoART processed 81.61% (22784 records), PUH-2010-080_03noar.csv
+ART processed 22.16% (14592 records), PUH-2010-141_02ar.csv
+NoART processed 82.41% (23040 records), PUH-2010-080_03noar.csv
+ART processed 22.52% (14848 records), PUH-2010-141_02ar.csv
+NoART processed 83.22% (23296 records), PUH-2010-080_03noar.csv
+ART processed 22.89% (15104 records), PUH-2010-141_02ar.csv
+NoART processed 84.04% (23552 records), PUH-2010-080_03noar.csv
+ART processed 23.27% (15360 records), PUH-2010-141_02ar.csv
+NoART processed 84.86% (23808 records), PUH-2010-080_03noar.csv
+ART processed 23.64% (15616 records), PUH-2010-141_02ar.csv
+NoART processed 85.67% (24064 records), PUH-2010-080_03noar.csv
+ART processed 24.01% (15872 records), PUH-2010-141_02ar.csv
+NoART processed 86.48% (24320 records), PUH-2010-080_03noar.csv
+ART processed 24.39% (16128 records), PUH-2010-141_02ar.csv
+NoART processed 87.24% (24576 records), PUH-2010-080_03noar.csv
+ART processed 24.75% (16384 records), PUH-2010-141_02ar.csv
+NoART processed 87.99% (24832 records), PUH-2010-080_03noar.csv
+ART processed 25.11% (16640 records), PUH-2010-141_02ar.csv
+NoART processed 88.76% (25088 records), PUH-2010-080_03noar.csv
+8ART processed 25.47% (16896 records), PUH-2010-141_02ar.csv
+NoART processed 89.52% (25344 records), PUH-2010-080_03noar.csv
+ART processed 25.82% (17152 records), PUH-2010-141_02ar.csv
+NoART processed 90.28% (25600 records), PUH-2010-080_03noar.csv
+ART processed 26.18% (17408 records), PUH-2010-141_02ar.csv
+NoART processed 91.04% (25856 records), PUH-2010-080_03noar.csv
+ART processed 26.53% (17664 records), PUH-2010-141_02ar.csv
+NoART processed 91.80% (26112 records), PUH-2010-080_03noar.csv
+ART processed 26.89% (17920 records), PUH-2010-141_02ar.csv
+NoART processed 92.55% (26368 records), PUH-2010-080_03noar.csv
+ART processed 27.25% (18176 records), PUH-2010-141_02ar.csv
+NoART processed 93.28% (26624 records), PUH-2010-080_03noar.csv
+ART processed 27.61% (18432 records), PUH-2010-141_02ar.csv
+NoART processed 94.01% (26880 records), PUH-2010-080_03noar.csv
+ART processed 27.97% (18688 records), PUH-2010-141_02ar.csv
+NoART processed 94.72% (27136 records), PUH-2010-080_03noar.csv
+ART processed 28.34% (18944 records), PUH-2010-141_02ar.csv
+NoART processed 95.45% (27392 records), PUH-2010-080_03noar.csv
+ART processed 28.70% (19200 records), PUH-2010-141_02ar.csv
+NoART processed 96.17% (27648 records), PUH-2010-080_03noar.csv
+ART processed 29.07% (19456 records), PUH-2010-141_02ar.csv
+NoART processed 96.90% (27904 records), PUH-2010-080_03noar.csv
+ART processed 29.44% (19712 records), PUH-2010-141_02ar.csv
+NoART processed 97.62% (28160 records), PUH-2010-080_03noar.csv
+ART processed 29.81% (19968 records), PUH-2010-141_02ar.csv
+NoART processed 98.33% (28416 records), PUH-2010-080_03noar.csv
+ART processed 30.18% (20224 records), PUH-2010-141_02ar.csv
+NoART processed 99.08% (28672 records), PUH-2010-080_03noar.csv
+ART processed 30.55% (20480 records), PUH-2010-141_02ar.csv
+NoART processed 99.83% (28928 records), PUH-2010-080_03noar.csv
+Finished for 'PUH-2010-080_03noar.csv'
+N:\Test_NoAR\PUH-2010-080_03noar.csv. Import time: 9.72 min
+
+NoART processing 'PUH-2010-083_01noar.csv'
+PUH-2010-083_01noar.csv columns: 6039
+ART processed 30.93% (20736 records), PUH-2010-141_02ar.csv
+NoART processed 0.44% (256 records), PUH-2010-083_01noar.csv
+ART processed 31.30% (20992 records), PUH-2010-141_02ar.csv
+ART processed 31.68% (21248 records), PUH-2010-141_02ar.csv
+NoART processed 0.88% (512 records), PUH-2010-083_01noar.csv
+ART processed 32.05% (21504 records), PUH-2010-141_02ar.csv
+NoART processed 1.35% (768 records), PUH-2010-083_01noar.csv
+ART processed 32.42% (21760 records), PUH-2010-141_02ar.csv
+NoART processed 1.82% (1024 records), PUH-2010-083_01noar.csv
+NoART processed 2.32% (1280 records), PUH-2010-083_01noar.csv
+ART processed 32.79% (22016 records), PUH-2010-141_02ar.csv
+NoART processed 2.80% (1536 records), PUH-2010-083_01noar.csv
+ART processed 33.16% (22272 records), PUH-2010-141_02ar.csv
+NoART processed 3.28% (1792 records), PUH-2010-083_01noar.csv
+ART processed 33.52% (22528 records), PUH-2010-141_02ar.csv
+NoART processed 3.76% (2048 records), PUH-2010-083_01noar.csv
+ART processed 33.88% (22784 records), PUH-2010-141_02ar.csv
+NoART processed 4.25% (2304 records), PUH-2010-083_01noar.csv
+ART processed 34.24% (23040 records), PUH-2010-141_02ar.csv
+NoART processed 4.73% (2560 records), PUH-2010-083_01noar.csv
+ART processed 34.61% (23296 records), PUH-2010-141_02ar.csv
+NoART processed 5.21% (2816 records), PUH-2010-083_01noar.csv
+ART processed 34.98% (23552 records), PUH-2010-141_02ar.csv
+ART processed 35.35% (23808 records), PUH-2010-141_02ar.csv
+NoART processed 5.69% (3072 records), PUH-2010-083_01noar.csv
+NoART processed 6.17% (3328 records), PUH-2010-083_01noar.csv
+ART processed 35.71% (24064 records), PUH-2010-141_02ar.csv
+NoART processed 6.65% (3584 records), PUH-2010-083_01noar.csv
+ART processed 36.08% (24320 records), PUH-2010-141_02ar.csv
+NoART processed 7.14% (3840 records), PUH-2010-083_01noar.csv
+ART processed 36.46% (24576 records), PUH-2010-141_02ar.csv
+NoART processed 7.62% (4096 records), PUH-2010-083_01noar.csv
+ART processed 36.84% (24832 records), PUH-2010-141_02ar.csv
+NoART processed 8.10% (4352 records), PUH-2010-083_01noar.csv
+ART processed 37.22% (25088 records), PUH-2010-141_02ar.csv
+NoART processed 8.58% (4608 records), PUH-2010-083_01noar.csv
+ART processed 37.59% (25344 records), PUH-2010-141_02ar.csv
+NoART processed 9.06% (4864 records), PUH-2010-083_01noar.csv
+ART processed 37.98% (25600 records), PUH-2010-141_02ar.csv
+NoART processed 9.54% (5120 records), PUH-2010-083_01noar.csv
+ART processed 38.37% (25856 records), PUH-2010-141_02ar.csv
+NoART processed 10.01% (5376 records), PUH-2010-083_01noar.csv
+ART processed 38.76% (26112 records), PUH-2010-141_02ar.csv
+NoART processed 10.48% (5632 records), PUH-2010-083_01noar.csv
+ART processed 39.14% (26368 records), PUH-2010-141_02ar.csv
+NoART processed 10.94% (5888 records), PUH-2010-083_01noar.csv
+ART processed 39.52% (26624 records), PUH-2010-141_02ar.csv
+ART processed 39.90% (26880 records), PUH-2010-141_02ar.csv
+NoART processed 11.41% (6144 records), PUH-2010-083_01noar.csv
+NoART processed 11.88% (6400 records), PUH-2010-083_01noar.csv
+ART processed 40.28% (27136 records), PUH-2010-141_02ar.csv
+ART processed 40.66% (27392 records), PUH-2010-141_02ar.csv
+NoART processed 12.34% (6656 records), PUH-2010-083_01noar.csv
+NoART processed 12.81% (6912 records), PUH-2010-083_01noar.csv
+ART processed 41.04% (27648 records), PUH-2010-141_02ar.csv
+NoART processed 13.27% (7168 records), PUH-2010-083_01noar.csv
+ART processed 41.42% (27904 records), PUH-2010-141_02ar.csv
+ART processed 41.80% (28160 records), PUH-2010-141_02ar.csv
+NoART processed 13.73% (7424 records), PUH-2010-083_01noar.csv
+ART processed 42.17% (28416 records), PUH-2010-141_02ar.csv
+NoART processed 14.19% (7680 records), PUH-2010-083_01noar.csv
+NoART processed 14.66% (7936 records), PUH-2010-083_01noar.csv
+ART processed 42.53% (28672 records), PUH-2010-141_02ar.csv
+NoART processed 15.12% (8192 records), PUH-2010-083_01noar.csv
+ART processed 42.90% (28928 records), PUH-2010-141_02ar.csv
+NoART processed 15.58% (8448 records), PUH-2010-083_01noar.csv
+ART processed 43.26% (29184 records), PUH-2010-141_02ar.csv
+NoART processed 16.04% (8704 records), PUH-2010-083_01noar.csv
+ART processed 43.62% (29440 records), PUH-2010-141_02ar.csv
+ART processed 43.99% (29696 records), PUH-2010-141_02ar.csv
+NoART processed 16.51% (8960 records), PUH-2010-083_01noar.csv
+ART processed 44.35% (29952 records), PUH-2010-141_02ar.csv
+NoART processed 16.97% (9216 records), PUH-2010-083_01noar.csv
+ART processed 44.71% (30208 records), PUH-2010-141_02ar.csv
+NoART processed 17.44% (9472 records), PUH-2010-083_01noar.csv
+ART processed 45.07% (30464 records), PUH-2010-141_02ar.csv
+NoART processed 17.91% (9728 records), PUH-2010-083_01noar.csv
+NoART processed 18.38% (9984 records), PUH-2010-083_01noar.csv
+ART processed 45.43% (30720 records), PUH-2010-141_02ar.csv
+ART processed 45.79% (30976 records), PUH-2010-141_02ar.csv
+NoART processed 18.84% (10240 records), PUH-2010-083_01noar.csv
+NoART processed 19.31% (10496 records), PUH-2010-083_01noar.csv
+ART processed 46.15% (31232 records), PUH-2010-141_02ar.csv
+NoART processed 19.78% (10752 records), PUH-2010-083_01noar.csv
+ART processed 46.51% (31488 records), PUH-2010-141_02ar.csv
+NoART processed 20.24% (11008 records), PUH-2010-083_01noar.csv
+ART processed 46.88% (31744 records), PUH-2010-141_02ar.csv
+ART processed 47.24% (32000 records), PUH-2010-141_02ar.csv
+NoART processed 20.70% (11264 records), PUH-2010-083_01noar.csv
+ART processed 47.61% (32256 records), PUH-2010-141_02ar.csv
+NoART processed 21.16% (11520 records), PUH-2010-083_01noar.csv
+ART processed 47.99% (32512 records), PUH-2010-141_02ar.csv
+NoART processed 21.62% (11776 records), PUH-2010-083_01noar.csv
+ART processed 48.36% (32768 records), PUH-2010-141_02ar.csv
+NoART processed 22.08% (12032 records), PUH-2010-083_01noar.csv
+ART processed 48.74% (33024 records), PUH-2010-141_02ar.csv
+NoART processed 22.54% (12288 records), PUH-2010-083_01noar.csv
+ART processed 49.12% (33280 records), PUH-2010-141_02ar.csv
+NoART processed 22.99% (12544 records), PUH-2010-083_01noar.csv
+NoART processed 23.43% (12800 records), PUH-2010-083_01noar.csv
+ART processed 49.50% (33536 records), PUH-2010-141_02ar.csv
+ART processed 49.88% (33792 records), PUH-2010-141_02ar.csv
+NoART processed 23.87% (13056 records), PUH-2010-083_01noar.csv
+NoART processed 24.31% (13312 records), PUH-2010-083_01noar.csv
+ART processed 50.25% (34048 records), PUH-2010-141_02ar.csv
+ART processed 50.63% (34304 records), PUH-2010-141_02ar.csv
+NoART processed 24.76% (13568 records), PUH-2010-083_01noar.csv
+NoART processed 25.22% (13824 records), PUH-2010-083_01noar.csv
+ART processed 51.01% (34560 records), PUH-2010-141_02ar.csv
+ART processed 51.39% (34816 records), PUH-2010-141_02ar.csv
+NoART processed 25.67% (14080 records), PUH-2010-083_01noar.csv
+ART processed 51.77% (35072 records), PUH-2010-141_02ar.csv
+NoART processed 26.11% (14336 records), PUH-2010-083_01noar.csv
+NoART processed 26.57% (14592 records), PUH-2010-083_01noar.csv
+ART processed 52.16% (35328 records), PUH-2010-141_02ar.csv
+NoART processed 27.02% (14848 records), PUH-2010-083_01noar.csv
+ART processed 52.55% (35584 records), PUH-2010-141_02ar.csv
+ART processed 52.93% (35840 records), PUH-2010-141_02ar.csv
+NoART processed 27.47% (15104 records), PUH-2010-083_01noar.csv
+ART processed 53.32% (36096 records), PUH-2010-141_02ar.csv
+NoART processed 27.92% (15360 records), PUH-2010-083_01noar.csv
+NoART processed 28.37% (15616 records), PUH-2010-083_01noar.csv
+ART processed 53.70% (36352 records), PUH-2010-141_02ar.csv
+NoART processed 28.82% (15872 records), PUH-2010-083_01noar.csv
+ART processed 54.08% (36608 records), PUH-2010-141_02ar.csv
+ART processed 54.47% (36864 records), PUH-2010-141_02ar.csv
+NoART processed 29.26% (16128 records), PUH-2010-083_01noar.csv
+NoART processed 29.70% (16384 records), PUH-2010-083_01noar.csv
+ART processed 54.85% (37120 records), PUH-2010-141_02ar.csv
+NoART processed 30.13% (16640 records), PUH-2010-083_01noar.csv
+ART processed 55.23% (37376 records), PUH-2010-141_02ar.csv
+ART processed 55.61% (37632 records), PUH-2010-141_02ar.csv
+NoART processed 30.56% (16896 records), PUH-2010-083_01noar.csv
+NoART processed 31.00% (17152 records), PUH-2010-083_01noar.csv
+ART processed 55.99% (37888 records), PUH-2010-141_02ar.csv
+NoART processed 31.44% (17408 records), PUH-2010-083_01noar.csv
+ART processed 56.36% (38144 records), PUH-2010-141_02ar.csv
+NoART processed 31.88% (17664 records), PUH-2010-083_01noar.csv
+ART processed 56.73% (38400 records), PUH-2010-141_02ar.csv
+ART processed 57.10% (38656 records), PUH-2010-141_02ar.csv
+NoART processed 32.32% (17920 records), PUH-2010-083_01noar.csv
+NoART processed 32.75% (18176 records), PUH-2010-083_01noar.csv
+ART processed 57.47% (38912 records), PUH-2010-141_02ar.csv
+NoART processed 33.18% (18432 records), PUH-2010-083_01noar.csv
+ART processed 57.84% (39168 records), PUH-2010-141_02ar.csv
+NoART processed 33.62% (18688 records), PUH-2010-083_01noar.csv
+ART processed 58.21% (39424 records), PUH-2010-141_02ar.csv
+NoART processed 34.05% (18944 records), PUH-2010-083_01noar.csv
+ART processed 58.58% (39680 records), PUH-2010-141_02ar.csv
+NoART processed 34.49% (19200 records), PUH-2010-083_01noar.csv
+ART processed 58.95% (39936 records), PUH-2010-141_02ar.csv
+NoART processed 34.91% (19456 records), PUH-2010-083_01noar.csv
+ART processed 59.32% (40192 records), PUH-2010-141_02ar.csv
+NoART processed 35.34% (19712 records), PUH-2010-083_01noar.csv
+ART processed 59.68% (40448 records), PUH-2010-141_02ar.csv
+NoART processed 35.76% (19968 records), PUH-2010-083_01noar.csv
+ART processed 60.04% (40704 records), PUH-2010-141_02ar.csv
+NoART processed 36.19% (20224 records), PUH-2010-083_01noar.csv
+ART processed 60.41% (40960 records), PUH-2010-141_02ar.csv
+NoART processed 36.62% (20480 records), PUH-2010-083_01noar.csv
+ART processed 60.78% (41216 records), PUH-2010-141_02ar.csv
+NoART processed 37.05% (20736 records), PUH-2010-083_01noar.csv
+ART processed 61.14% (41472 records), PUH-2010-141_02ar.csv
+NoART processed 37.47% (20992 records), PUH-2010-083_01noar.csv
+ART processed 61.51% (41728 records), PUH-2010-141_02ar.csv
+NoART processed 37.90% (21248 records), PUH-2010-083_01noar.csv
+ART processed 61.87% (41984 records), PUH-2010-141_02ar.csv
+NoART processed 38.33% (21504 records), PUH-2010-083_01noar.csv
+ART processed 62.24% (42240 records), PUH-2010-141_02ar.csv
+NoART processed 38.75% (21760 records), PUH-2010-083_01noar.csv
+ART processed 62.60% (42496 records), PUH-2010-141_02ar.csv
+NoART processed 39.18% (22016 records), PUH-2010-083_01noar.csv
+ART processed 62.96% (42752 records), PUH-2010-141_02ar.csv
+NoART processed 39.61% (22272 records), PUH-2010-083_01noar.csv
+ART processed 63.32% (43008 records), PUH-2010-141_02ar.csv
+NoART processed 40.04% (22528 records), PUH-2010-083_01noar.csv
+ART processed 63.68% (43264 records), PUH-2010-141_02ar.csv
+NoART processed 40.46% (22784 records), PUH-2010-083_01noar.csv
+ART processed 64.04% (43520 records), PUH-2010-141_02ar.csv
+NoART processed 40.88% (23040 records), PUH-2010-083_01noar.csv
+ART processed 64.41% (43776 records), PUH-2010-141_02ar.csv
+NoART processed 41.30% (23296 records), PUH-2010-083_01noar.csv
+ART processed 64.77% (44032 records), PUH-2010-141_02ar.csv
+NoART processed 41.72% (23552 records), PUH-2010-083_01noar.csv
+ART processed 65.13% (44288 records), PUH-2010-141_02ar.csv
+NoART processed 42.14% (23808 records), PUH-2010-083_01noar.csv
+ART processed 65.49% (44544 records), PUH-2010-141_02ar.csv
+NoART processed 42.56% (24064 records), PUH-2010-083_01noar.csv
+ART processed 65.85% (44800 records), PUH-2010-141_02ar.csv
+NoART processed 42.98% (24320 records), PUH-2010-083_01noar.csv
+ART processed 66.21% (45056 records), PUH-2010-141_02ar.csv
+NoART processed 43.41% (24576 records), PUH-2010-083_01noar.csv
+ART processed 66.57% (45312 records), PUH-2010-141_02ar.csv
+NoART processed 43.83% (24832 records), PUH-2010-083_01noar.csv
+ART processed 66.93% (45568 records), PUH-2010-141_02ar.csv
+NoART processed 44.25% (25088 records), PUH-2010-083_01noar.csv
+ART processed 67.29% (45824 records), PUH-2010-141_02ar.csv
+NoART processed 44.67% (25344 records), PUH-2010-083_01noar.csv
+ART processed 67.65% (46080 records), PUH-2010-141_02ar.csv
+NoART processed 45.09% (25600 records), PUH-2010-083_01noar.csv
+NoART processed 45.51% (25856 records), PUH-2010-083_01noar.csv
+ART processed 68.01% (46336 records), PUH-2010-141_02ar.csv
+NoART processed 45.93% (26112 records), PUH-2010-083_01noar.csv
+ART processed 68.37% (46592 records), PUH-2010-141_02ar.csv
+NoART processed 46.35% (26368 records), PUH-2010-083_01noar.csv
+ART processed 68.74% (46848 records), PUH-2010-141_02ar.csv
+NoART processed 46.77% (26624 records), PUH-2010-083_01noar.csv
+ART processed 69.10% (47104 records), PUH-2010-141_02ar.csv
+NoART processed 47.18% (26880 records), PUH-2010-083_01noar.csv
+ART processed 69.46% (47360 records), PUH-2010-141_02ar.csv
+NoART processed 47.60% (27136 records), PUH-2010-083_01noar.csv
+ART processed 69.82% (47616 records), PUH-2010-141_02ar.csv
+NoART processed 48.02% (27392 records), PUH-2010-083_01noar.csv
+ART processed 70.18% (47872 records), PUH-2010-141_02ar.csv
+NoART processed 48.44% (27648 records), PUH-2010-083_01noar.csv
+ART processed 70.55% (48128 records), PUH-2010-141_02ar.csv
+NoART processed 48.85% (27904 records), PUH-2010-083_01noar.csv
+ART processed 70.91% (48384 records), PUH-2010-141_02ar.csv
+NoART processed 49.26% (28160 records), PUH-2010-083_01noar.csv
+ART processed 71.27% (48640 records), PUH-2010-141_02ar.csv
+NoART processed 49.68% (28416 records), PUH-2010-083_01noar.csv
+ART processed 71.63% (48896 records), PUH-2010-141_02ar.csv
+NoART processed 50.09% (28672 records), PUH-2010-083_01noar.csv
+ART processed 72.00% (49152 records), PUH-2010-141_02ar.csv
+NoART processed 50.51% (28928 records), PUH-2010-083_01noar.csv
+ART processed 72.36% (49408 records), PUH-2010-141_02ar.csv
+NoART processed 50.92% (29184 records), PUH-2010-083_01noar.csv
+ART processed 72.73% (49664 records), PUH-2010-141_02ar.csv
+NoART processed 51.33% (29440 records), PUH-2010-083_01noar.csv
+ART processed 73.10% (49920 records), PUH-2010-141_02ar.csv
+NoART processed 51.74% (29696 records), PUH-2010-083_01noar.csv
+ART processed 73.47% (50176 records), PUH-2010-141_02ar.csv
+NoART processed 52.16% (29952 records), PUH-2010-083_01noar.csv
+ART processed 73.83% (50432 records), PUH-2010-141_02ar.csv
+ART processed 74.20% (50688 records), PUH-2010-141_02ar.csv
+NoART processed 52.58% (30208 records), PUH-2010-083_01noar.csv
+NoART processed 52.99% (30464 records), PUH-2010-083_01noar.csv
+ART processed 74.57% (50944 records), PUH-2010-141_02ar.csv
+ART processed 74.93% (51200 records), PUH-2010-141_02ar.csv
+NoART processed 53.41% (30720 records), PUH-2010-083_01noar.csv
+NoART processed 53.83% (30976 records), PUH-2010-083_01noar.csv
+ART processed 75.29% (51456 records), PUH-2010-141_02ar.csv
+ART processed 75.65% (51712 records), PUH-2010-141_02ar.csv
+NoART processed 54.25% (31232 records), PUH-2010-083_01noar.csv
+ART processed 76.02% (51968 records), PUH-2010-141_02ar.csv
+NoART processed 54.66% (31488 records), PUH-2010-083_01noar.csv
+ART processed 76.38% (52224 records), PUH-2010-141_02ar.csv
+NoART processed 55.07% (31744 records), PUH-2010-083_01noar.csv
+NoART processed 55.48% (32000 records), PUH-2010-083_01noar.csv
+ART processed 76.75% (52480 records), PUH-2010-141_02ar.csv
+NoART processed 55.88% (32256 records), PUH-2010-083_01noar.csv
+ART processed 77.12% (52736 records), PUH-2010-141_02ar.csv
+NoART processed 56.29% (32512 records), PUH-2010-083_01noar.csv
+ART processed 77.49% (52992 records), PUH-2010-141_02ar.csv
+NoART processed 56.70% (32768 records), PUH-2010-083_01noar.csv
+ART processed 77.86% (53248 records), PUH-2010-141_02ar.csv
+NoART processed 57.11% (33024 records), PUH-2010-083_01noar.csv
+ART processed 78.23% (53504 records), PUH-2010-141_02ar.csv
+NoART processed 57.53% (33280 records), PUH-2010-083_01noar.csv
+ART processed 78.60% (53760 records), PUH-2010-141_02ar.csv
+NoART processed 57.94% (33536 records), PUH-2010-083_01noar.csv
+ART processed 78.96% (54016 records), PUH-2010-141_02ar.csv
+NoART processed 58.36% (33792 records), PUH-2010-083_01noar.csv
+ART processed 79.33% (54272 records), PUH-2010-141_02ar.csv
+NoART processed 58.77% (34048 records), PUH-2010-083_01noar.csv
+ART processed 79.70% (54528 records), PUH-2010-141_02ar.csv
+NoART processed 59.17% (34304 records), PUH-2010-083_01noar.csv
+ART processed 80.07% (54784 records), PUH-2010-141_02ar.csv
+NoART processed 59.56% (34560 records), PUH-2010-083_01noar.csv
+ART processed 80.43% (55040 records), PUH-2010-141_02ar.csv
+NoART processed 59.97% (34816 records), PUH-2010-083_01noar.csv
+ART processed 80.80% (55296 records), PUH-2010-141_02ar.csv
+NoART processed 60.37% (35072 records), PUH-2010-083_01noar.csv
+ART processed 81.17% (55552 records), PUH-2010-141_02ar.csv
+NoART processed 60.77% (35328 records), PUH-2010-083_01noar.csv
+ART processed 81.53% (55808 records), PUH-2010-141_02ar.csv
+NoART processed 61.18% (35584 records), PUH-2010-083_01noar.csv
+ART processed 81.90% (56064 records), PUH-2010-141_02ar.csv
+NoART processed 61.59% (35840 records), PUH-2010-083_01noar.csv
+ART processed 82.26% (56320 records), PUH-2010-141_02ar.csv
+NoART processed 61.99% (36096 records), PUH-2010-083_01noar.csv
+ART processed 82.62% (56576 records), PUH-2010-141_02ar.csv
+NoART processed 62.40% (36352 records), PUH-2010-083_01noar.csv
+ART processed 82.98% (56832 records), PUH-2010-141_02ar.csv
+NoART processed 62.80% (36608 records), PUH-2010-083_01noar.csv
+ART processed 83.35% (57088 records), PUH-2010-141_02ar.csv
+NoART processed 63.21% (36864 records), PUH-2010-083_01noar.csv
+ART processed 83.71% (57344 records), PUH-2010-141_02ar.csv
+NoART processed 63.61% (37120 records), PUH-2010-083_01noar.csv
+ART processed 84.08% (57600 records), PUH-2010-141_02ar.csv
+NoART processed 64.02% (37376 records), PUH-2010-083_01noar.csv
+ART processed 84.44% (57856 records), PUH-2010-141_02ar.csv
+NoART processed 64.42% (37632 records), PUH-2010-083_01noar.csv
+ART processed 84.81% (58112 records), PUH-2010-141_02ar.csv
+NoART processed 64.82% (37888 records), PUH-2010-083_01noar.csv
+ART processed 85.18% (58368 records), PUH-2010-141_02ar.csv
+NoART processed 65.23% (38144 records), PUH-2010-083_01noar.csv
+ART processed 85.54% (58624 records), PUH-2010-141_02ar.csv
+NoART processed 65.64% (38400 records), PUH-2010-083_01noar.csv
+ART processed 85.91% (58880 records), PUH-2010-141_02ar.csv
+NoART processed 66.05% (38656 records), PUH-2010-083_01noar.csv
+ART processed 86.27% (59136 records), PUH-2010-141_02ar.csv
+NoART processed 66.45% (38912 records), PUH-2010-083_01noar.csv
+ART processed 86.64% (59392 records), PUH-2010-141_02ar.csv
+NoART processed 66.86% (39168 records), PUH-2010-083_01noar.csv
+ART processed 87.01% (59648 records), PUH-2010-141_02ar.csv
+NoART processed 67.27% (39424 records), PUH-2010-083_01noar.csv
+ART processed 87.37% (59904 records), PUH-2010-141_02ar.csv
+NoART processed 67.67% (39680 records), PUH-2010-083_01noar.csv
+ART processed 87.73% (60160 records), PUH-2010-141_02ar.csv
+NoART processed 68.08% (39936 records), PUH-2010-083_01noar.csv
+ART processed 88.10% (60416 records), PUH-2010-141_02ar.csv
+NoART processed 68.48% (40192 records), PUH-2010-083_01noar.csv
+ART processed 88.46% (60672 records), PUH-2010-141_02ar.csv
+NoART processed 68.88% (40448 records), PUH-2010-083_01noar.csv
+ART processed 88.83% (60928 records), PUH-2010-141_02ar.csv
+NoART processed 69.29% (40704 records), PUH-2010-083_01noar.csv
+NoART processed 69.70% (40960 records), PUH-2010-083_01noar.csv
+ART processed 89.19% (61184 records), PUH-2010-141_02ar.csv
+NoART processed 70.10% (41216 records), PUH-2010-083_01noar.csv
+ART processed 89.56% (61440 records), PUH-2010-141_02ar.csv
+NoART processed 70.51% (41472 records), PUH-2010-083_01noar.csv
+ART processed 89.92% (61696 records), PUH-2010-141_02ar.csv
+NoART processed 70.92% (41728 records), PUH-2010-083_01noar.csv
+ART processed 90.28% (61952 records), PUH-2010-141_02ar.csv
+NoART processed 71.32% (41984 records), PUH-2010-083_01noar.csv
+ART processed 90.64% (62208 records), PUH-2010-141_02ar.csv
+NoART processed 71.73% (42240 records), PUH-2010-083_01noar.csv
+ART processed 91.00% (62464 records), PUH-2010-141_02ar.csv
+NoART processed 72.13% (42496 records), PUH-2010-083_01noar.csv
+ART processed 91.37% (62720 records), PUH-2010-141_02ar.csv
+ART processed 91.73% (62976 records), PUH-2010-141_02ar.csv
+NoART processed 72.54% (42752 records), PUH-2010-083_01noar.csv
+NoART processed 72.94% (43008 records), PUH-2010-083_01noar.csv
+ART processed 92.08% (63232 records), PUH-2010-141_02ar.csv
+NoART processed 73.35% (43264 records), PUH-2010-083_01noar.csv
+ART processed 92.44% (63488 records), PUH-2010-141_02ar.csv
+NoART processed 73.76% (43520 records), PUH-2010-083_01noar.csv
+ART processed 92.79% (63744 records), PUH-2010-141_02ar.csv
+NoART processed 74.16% (43776 records), PUH-2010-083_01noar.csv
+ART processed 93.15% (64000 records), PUH-2010-141_02ar.csv
+NoART processed 74.57% (44032 records), PUH-2010-083_01noar.csv
+ART processed 93.50% (64256 records), PUH-2010-141_02ar.csv
+NoART processed 74.98% (44288 records), PUH-2010-083_01noar.csv
+ART processed 93.86% (64512 records), PUH-2010-141_02ar.csv
+NoART processed 75.38% (44544 records), PUH-2010-083_01noar.csv
+ART processed 94.21% (64768 records), PUH-2010-141_02ar.csv
+NoART processed 75.78% (44800 records), PUH-2010-083_01noar.csv
+ART processed 94.56% (65024 records), PUH-2010-141_02ar.csv
+ART processed 94.91% (65280 records), PUH-2010-141_02ar.csv
+NoART processed 76.19% (45056 records), PUH-2010-083_01noar.csv
+ART processed 95.27% (65536 records), PUH-2010-141_02ar.csv
+NoART processed 76.60% (45312 records), PUH-2010-083_01noar.csv
+ART processed 95.64% (65792 records), PUH-2010-141_02ar.csv
+NoART processed 77.00% (45568 records), PUH-2010-083_01noar.csv
+ART processed 96.00% (66048 records), PUH-2010-141_02ar.csv
+NoART processed 77.41% (45824 records), PUH-2010-083_01noar.csv
+ART processed 96.36% (66304 records), PUH-2010-141_02ar.csv
+NoART processed 77.81% (46080 records), PUH-2010-083_01noar.csv
+ART processed 96.71% (66560 records), PUH-2010-141_02ar.csv
+NoART processed 78.22% (46336 records), PUH-2010-083_01noar.csv
+ART processed 97.07% (66816 records), PUH-2010-141_02ar.csv
+NoART processed 78.63% (46592 records), PUH-2010-083_01noar.csv
+ART processed 97.43% (67072 records), PUH-2010-141_02ar.csv
+NoART processed 79.04% (46848 records), PUH-2010-083_01noar.csv
+ART processed 97.79% (67328 records), PUH-2010-141_02ar.csv
+NoART processed 79.45% (47104 records), PUH-2010-083_01noar.csv
+ART processed 98.16% (67584 records), PUH-2010-141_02ar.csv
+NoART processed 79.86% (47360 records), PUH-2010-083_01noar.csv
+ART processed 98.52% (67840 records), PUH-2010-141_02ar.csv
+NoART processed 80.27% (47616 records), PUH-2010-083_01noar.csv
+NoART processed 80.68% (47872 records), PUH-2010-083_01noar.csv
+ART processed 98.89% (68096 records), PUH-2010-141_02ar.csv
+NoART processed 81.09% (48128 records), PUH-2010-083_01noar.csv
+ART processed 99.26% (68352 records), PUH-2010-141_02ar.csv
+NoART processed 81.51% (48384 records), PUH-2010-083_01noar.csv
+ART processed 99.62% (68608 records), PUH-2010-141_02ar.csv
+NoART processed 81.92% (48640 records), PUH-2010-083_01noar.csv
+ART processed 99.99% (68864 records), PUH-2010-141_02ar.csv
+Finished for 'PUH-2010-141_02ar.csv'
+N:\Test_AR\PUH-2010-141_02ar.csv. Import time: 25.56 min
+
+ART processing 'PUH-2010-141_3ar.csv'
+PUH-2010-141_3ar.csv columns: 6039
+NoART processed 82.33% (48896 records), PUH-2010-083_01noar.csv
+ART processed 0.63% (256 records), PUH-2010-141_3ar.csv
+NoART processed 82.74% (49152 records), PUH-2010-083_01noar.csv
+ART processed 1.26% (512 records), PUH-2010-141_3ar.csv
+NoART processed 83.15% (49408 records), PUH-2010-083_01noar.csv
+ART processed 1.89% (768 records), PUH-2010-141_3ar.csv
+NoART processed 83.56% (49664 records), PUH-2010-083_01noar.csv
+ART processed 2.53% (1024 records), PUH-2010-141_3ar.csv
+NoART processed 83.97% (49920 records), PUH-2010-083_01noar.csv
+ART processed 3.16% (1280 records), PUH-2010-141_3ar.csv
+NoART processed 84.38% (50176 records), PUH-2010-083_01noar.csv
+ART processed 3.79% (1536 records), PUH-2010-141_3ar.csv
+NoART processed 84.79% (50432 records), PUH-2010-083_01noar.csv
+ART processed 4.42% (1792 records), PUH-2010-141_3ar.csv
+NoART processed 85.19% (50688 records), PUH-2010-083_01noar.csv
+ART processed 5.05% (2048 records), PUH-2010-141_3ar.csv
+NoART processed 85.60% (50944 records), PUH-2010-083_01noar.csv
+ART processed 5.68% (2304 records), PUH-2010-141_3ar.csv
+NoART processed 86.01% (51200 records), PUH-2010-083_01noar.csv
+ART processed 6.31% (2560 records), PUH-2010-141_3ar.csv
+NoART processed 86.42% (51456 records), PUH-2010-083_01noar.csv
+ART processed 6.95% (2816 records), PUH-2010-141_3ar.csv
+NoART processed 86.83% (51712 records), PUH-2010-083_01noar.csv
+ART processed 7.58% (3072 records), PUH-2010-141_3ar.csv
+NoART processed 87.24% (51968 records), PUH-2010-083_01noar.csv
+ART processed 8.22% (3328 records), PUH-2010-141_3ar.csv
+NoART processed 87.64% (52224 records), PUH-2010-083_01noar.csv
+ART processed 8.85% (3584 records), PUH-2010-141_3ar.csv
+NoART processed 88.05% (52480 records), PUH-2010-083_01noar.csv
+ART processed 9.48% (3840 records), PUH-2010-141_3ar.csv
+NoART processed 88.45% (52736 records), PUH-2010-083_01noar.csv
+ART processed 10.11% (4096 records), PUH-2010-141_3ar.csv
+NoART processed 88.86% (52992 records), PUH-2010-083_01noar.csv
+ART processed 10.75% (4352 records), PUH-2010-141_3ar.csv
+NoART processed 89.26% (53248 records), PUH-2010-083_01noar.csv
+NoART processed 89.66% (53504 records), PUH-2010-083_01noar.csv
+ART processed 11.38% (4608 records), PUH-2010-141_3ar.csv
+ART processed 12.02% (4864 records), PUH-2010-141_3ar.csv
+NoART processed 90.06% (53760 records), PUH-2010-083_01noar.csv
+ART processed 12.65% (5120 records), PUH-2010-141_3ar.csv
+NoART processed 90.46% (54016 records), PUH-2010-083_01noar.csv
+NoART processed 90.86% (54272 records), PUH-2010-083_01noar.csv
+ART processed 13.29% (5376 records), PUH-2010-141_3ar.csv
+NoART processed 91.26% (54528 records), PUH-2010-083_01noar.csv
+ART processed 13.92% (5632 records), PUH-2010-141_3ar.csv
+ART processed 14.55% (5888 records), PUH-2010-141_3ar.csv
+NoART processed 91.67% (54784 records), PUH-2010-083_01noar.csv
+NoART processed 92.08% (55040 records), PUH-2010-083_01noar.csv
+ART processed 15.18% (6144 records), PUH-2010-141_3ar.csv
+NoART processed 92.48% (55296 records), PUH-2010-083_01noar.csv
+ART processed 15.81% (6400 records), PUH-2010-141_3ar.csv
+NoART processed 92.89% (55552 records), PUH-2010-083_01noar.csv
+ART processed 16.44% (6656 records), PUH-2010-141_3ar.csv
+NoART processed 93.29% (55808 records), PUH-2010-083_01noar.csv
+ART processed 17.08% (6912 records), PUH-2010-141_3ar.csv
+NoART processed 93.70% (56064 records), PUH-2010-083_01noar.csv
+ART processed 17.71% (7168 records), PUH-2010-141_3ar.csv
+NoART processed 94.11% (56320 records), PUH-2010-083_01noar.csv
+ART processed 18.34% (7424 records), PUH-2010-141_3ar.csv
+NoART processed 94.51% (56576 records), PUH-2010-083_01noar.csv
+ART processed 18.97% (7680 records), PUH-2010-141_3ar.csv
+NoART processed 94.91% (56832 records), PUH-2010-083_01noar.csv
+ART processed 19.61% (7936 records), PUH-2010-141_3ar.csv
+NoART processed 95.32% (57088 records), PUH-2010-083_01noar.csv
+ART processed 20.25% (8192 records), PUH-2010-141_3ar.csv
+NoART processed 95.72% (57344 records), PUH-2010-083_01noar.csv
+ART processed 20.88% (8448 records), PUH-2010-141_3ar.csv
+NoART processed 96.12% (57600 records), PUH-2010-083_01noar.csv
+ART processed 21.51% (8704 records), PUH-2010-141_3ar.csv
+ART processed 22.15% (8960 records), PUH-2010-141_3ar.csv
+NoART processed 96.53% (57856 records), PUH-2010-083_01noar.csv
+ART processed 22.78% (9216 records), PUH-2010-141_3ar.csv
+NoART processed 96.92% (58112 records), PUH-2010-083_01noar.csv
+ART processed 23.41% (9472 records), PUH-2010-141_3ar.csv
+NoART processed 97.32% (58368 records), PUH-2010-083_01noar.csv
+ART processed 24.04% (9728 records), PUH-2010-141_3ar.csv
+NoART processed 97.71% (58624 records), PUH-2010-083_01noar.csv
+ART processed 24.67% (9984 records), PUH-2010-141_3ar.csv
+NoART processed 98.11% (58880 records), PUH-2010-083_01noar.csv
+NoART processed 98.51% (59136 records), PUH-2010-083_01noar.csv
+ART processed 25.30% (10240 records), PUH-2010-141_3ar.csv
+NoART processed 98.90% (59392 records), PUH-2010-083_01noar.csv
+ART processed 25.94% (10496 records), PUH-2010-141_3ar.csv
+NoART processed 99.30% (59648 records), PUH-2010-083_01noar.csv
+ART processed 26.58% (10752 records), PUH-2010-141_3ar.csv
+ART processed 27.21% (11008 records), PUH-2010-141_3ar.csv
+NoART processed 99.69% (59904 records), PUH-2010-083_01noar.csv
+Finished for 'PUH-2010-083_01noar.csv'
+N:\Test_NoAR\PUH-2010-083_01noar.csv. Import time: 22.73 min
+
+NoART processing 'PUH-2010-083_02noar.csv'
+ART processed 27.84% (11264 records), PUH-2010-141_3ar.csv
+PUH-2010-083_02noar.csv columns: 6039
+ART processed 28.48% (11520 records), PUH-2010-141_3ar.csv
+NoART processed 0.79% (256 records), PUH-2010-083_02noar.csv
+ART processed 29.09% (11776 records), PUH-2010-141_3ar.csv
+NoART processed 1.57% (512 records), PUH-2010-083_02noar.csv
+NoART processed 2.34% (768 records), PUH-2010-083_02noar.csv
+ART processed 29.71% (12032 records), PUH-2010-141_3ar.csv
+NoART processed 3.11% (1024 records), PUH-2010-083_02noar.csv
+ART processed 30.34% (12288 records), PUH-2010-141_3ar.csv
+NoART processed 3.88% (1280 records), PUH-2010-083_02noar.csv
+ART processed 30.97% (12544 records), PUH-2010-141_3ar.csv
+NoART processed 4.66% (1536 records), PUH-2010-083_02noar.csv
+ART processed 31.58% (12800 records), PUH-2010-141_3ar.csv
+NoART processed 5.44% (1792 records), PUH-2010-083_02noar.csv
+ART processed 32.19% (13056 records), PUH-2010-141_3ar.csv
+NoART processed 6.21% (2048 records), PUH-2010-083_02noar.csv
+ART processed 32.83% (13312 records), PUH-2010-141_3ar.csv
+NoART processed 6.99% (2304 records), PUH-2010-083_02noar.csv
+ART processed 33.46% (13568 records), PUH-2010-141_3ar.csv
+NoART processed 7.77% (2560 records), PUH-2010-083_02noar.csv
+ART processed 34.08% (13824 records), PUH-2010-141_3ar.csv
+NoART processed 8.55% (2816 records), PUH-2010-083_02noar.csv
+ART processed 34.71% (14080 records), PUH-2010-141_3ar.csv
+NoART processed 9.32% (3072 records), PUH-2010-083_02noar.csv
+ART processed 35.34% (14336 records), PUH-2010-141_3ar.csv
+NoART processed 10.09% (3328 records), PUH-2010-083_02noar.csv
+ART processed 35.97% (14592 records), PUH-2010-141_3ar.csv
+ART processed 36.59% (14848 records), PUH-2010-141_3ar.csv
+NoART processed 10.86% (3584 records), PUH-2010-083_02noar.csv
+NoART processed 11.63% (3840 records), PUH-2010-083_02noar.csv
+ART processed 37.21% (15104 records), PUH-2010-141_3ar.csv
+NoART processed 12.39% (4096 records), PUH-2010-083_02noar.csv
+ART processed 37.84% (15360 records), PUH-2010-141_3ar.csv
+NoART processed 13.17% (4352 records), PUH-2010-083_02noar.csv
+ART processed 38.46% (15616 records), PUH-2010-141_3ar.csv
+NoART processed 13.94% (4608 records), PUH-2010-083_02noar.csv
+ART processed 39.08% (15872 records), PUH-2010-141_3ar.csv
+NoART processed 14.71% (4864 records), PUH-2010-083_02noar.csv
+ART processed 39.68% (16128 records), PUH-2010-141_3ar.csv
+NoART processed 15.48% (5120 records), PUH-2010-083_02noar.csv
+ART processed 40.29% (16384 records), PUH-2010-141_3ar.csv
+NoART processed 16.25% (5376 records), PUH-2010-083_02noar.csv
+ART processed 40.90% (16640 records), PUH-2010-141_3ar.csv
+NoART processed 17.02% (5632 records), PUH-2010-083_02noar.csv
+ART processed 41.51% (16896 records), PUH-2010-141_3ar.csv
+ART processed 42.11% (17152 records), PUH-2010-141_3ar.csv
+NoART processed 17.80% (5888 records), PUH-2010-083_02noar.csv
+NoART processed 18.57% (6144 records), PUH-2010-083_02noar.csv
+ART processed 42.72% (17408 records), PUH-2010-141_3ar.csv
+NoART processed 19.34% (6400 records), PUH-2010-083_02noar.csv
+ART processed 43.33% (17664 records), PUH-2010-141_3ar.csv
+NoART processed 20.11% (6656 records), PUH-2010-083_02noar.csv
+ART processed 43.93% (17920 records), PUH-2010-141_3ar.csv
+NoART processed 20.91% (6912 records), PUH-2010-083_02noar.csv
+ART processed 44.54% (18176 records), PUH-2010-141_3ar.csv
+ART processed 45.14% (18432 records), PUH-2010-141_3ar.csv
+NoART processed 21.69% (7168 records), PUH-2010-083_02noar.csv
+ART processed 45.75% (18688 records), PUH-2010-141_3ar.csv
+NoART processed 22.46% (7424 records), PUH-2010-083_02noar.csv
+ART processed 46.36% (18944 records), PUH-2010-141_3ar.csv
+NoART processed 23.24% (7680 records), PUH-2010-083_02noar.csv
+ART processed 46.97% (19200 records), PUH-2010-141_3ar.csv
+NoART processed 24.01% (7936 records), PUH-2010-083_02noar.csv
+ART processed 47.58% (19456 records), PUH-2010-141_3ar.csv
+NoART processed 24.79% (8192 records), PUH-2010-083_02noar.csv
+ART processed 48.19% (19712 records), PUH-2010-141_3ar.csv
+NoART processed 25.56% (8448 records), PUH-2010-083_02noar.csv
+ART processed 48.81% (19968 records), PUH-2010-141_3ar.csv
+NoART processed 26.33% (8704 records), PUH-2010-083_02noar.csv
+ART processed 49.42% (20224 records), PUH-2010-141_3ar.csv
+NoART processed 27.09% (8960 records), PUH-2010-083_02noar.csv
+ART processed 50.03% (20480 records), PUH-2010-141_3ar.csv
+NoART processed 27.86% (9216 records), PUH-2010-083_02noar.csv
+ART processed 50.64% (20736 records), PUH-2010-141_3ar.csv
+NoART processed 28.63% (9472 records), PUH-2010-083_02noar.csv
+ART processed 51.25% (20992 records), PUH-2010-141_3ar.csv
+NoART processed 29.39% (9728 records), PUH-2010-083_02noar.csv
+ART processed 51.86% (21248 records), PUH-2010-141_3ar.csv
+NoART processed 30.16% (9984 records), PUH-2010-083_02noar.csv
+ART processed 52.47% (21504 records), PUH-2010-141_3ar.csv
+NoART processed 30.92% (10240 records), PUH-2010-083_02noar.csv
+ART processed 53.08% (21760 records), PUH-2010-141_3ar.csv
+NoART processed 31.70% (10496 records), PUH-2010-083_02noar.csv
+ART processed 53.69% (22016 records), PUH-2010-141_3ar.csv
+NoART processed 32.47% (10752 records), PUH-2010-083_02noar.csv
+ART processed 54.30% (22272 records), PUH-2010-141_3ar.csv
+NoART processed 33.25% (11008 records), PUH-2010-083_02noar.csv
+ART processed 54.90% (22528 records), PUH-2010-141_3ar.csv
+NoART processed 34.02% (11264 records), PUH-2010-083_02noar.csv
+ART processed 55.52% (22784 records), PUH-2010-141_3ar.csv
+NoART processed 34.79% (11520 records), PUH-2010-083_02noar.csv
+ART processed 56.13% (23040 records), PUH-2010-141_3ar.csv
+NoART processed 35.57% (11776 records), PUH-2010-083_02noar.csv
+ART processed 56.73% (23296 records), PUH-2010-141_3ar.csv
+NoART processed 36.34% (12032 records), PUH-2010-083_02noar.csv
+ART processed 57.34% (23552 records), PUH-2010-141_3ar.csv
+NoART processed 37.11% (12288 records), PUH-2010-083_02noar.csv
+ART processed 57.95% (23808 records), PUH-2010-141_3ar.csv
+NoART processed 37.88% (12544 records), PUH-2010-083_02noar.csv
+ART processed 58.56% (24064 records), PUH-2010-141_3ar.csv
+NoART processed 38.65% (12800 records), PUH-2010-083_02noar.csv
+NoART processed 39.42% (13056 records), PUH-2010-083_02noar.csv
+ART processed 59.17% (24320 records), PUH-2010-141_3ar.csv
+NoART processed 40.18% (13312 records), PUH-2010-083_02noar.csv
+ART processed 59.77% (24576 records), PUH-2010-141_3ar.csv
+NoART processed 40.94% (13568 records), PUH-2010-083_02noar.csv
+ART processed 60.38% (24832 records), PUH-2010-141_3ar.csv
+ART processed 60.99% (25088 records), PUH-2010-141_3ar.csv
+NoART processed 41.73% (13824 records), PUH-2010-083_02noar.csv
+NoART processed 42.49% (14080 records), PUH-2010-083_02noar.csv
+ART processed 61.59% (25344 records), PUH-2010-141_3ar.csv
+ART processed 62.20% (25600 records), PUH-2010-141_3ar.csv
+NoART processed 43.26% (14336 records), PUH-2010-083_02noar.csv
+NoART processed 44.03% (14592 records), PUH-2010-083_02noar.csv
+ART processed 62.81% (25856 records), PUH-2010-141_3ar.csv
+NoART processed 44.80% (14848 records), PUH-2010-083_02noar.csv
+ART processed 63.43% (26112 records), PUH-2010-141_3ar.csv
+NoART processed 45.57% (15104 records), PUH-2010-083_02noar.csv
+ART processed 64.04% (26368 records), PUH-2010-141_3ar.csv
+NoART processed 46.35% (15360 records), PUH-2010-083_02noar.csv
+ART processed 64.66% (26624 records), PUH-2010-141_3ar.csv
+NoART processed 47.12% (15616 records), PUH-2010-083_02noar.csv
+ART processed 65.26% (26880 records), PUH-2010-141_3ar.csv
+ART processed 65.88% (27136 records), PUH-2010-141_3ar.csv
+NoART processed 47.89% (15872 records), PUH-2010-083_02noar.csv
+ART processed 66.48% (27392 records), PUH-2010-141_3ar.csv
+NoART processed 48.67% (16128 records), PUH-2010-083_02noar.csv
+ART processed 67.09% (27648 records), PUH-2010-141_3ar.csv
+NoART processed 49.44% (16384 records), PUH-2010-083_02noar.csv
+ART processed 67.70% (27904 records), PUH-2010-141_3ar.csv
+NoART processed 50.21% (16640 records), PUH-2010-083_02noar.csv
+NoART processed 50.99% (16896 records), PUH-2010-083_02noar.csv
+ART processed 68.31% (28160 records), PUH-2010-141_3ar.csv
+NoART processed 51.77% (17152 records), PUH-2010-083_02noar.csv
+ART processed 68.93% (28416 records), PUH-2010-141_3ar.csv
+ART processed 69.55% (28672 records), PUH-2010-141_3ar.csv
+NoART processed 52.54% (17408 records), PUH-2010-083_02noar.csv
+ART processed 70.16% (28928 records), PUH-2010-141_3ar.csv
+NoART processed 53.31% (17664 records), PUH-2010-083_02noar.csv
+NoART processed 54.08% (17920 records), PUH-2010-083_02noar.csv
+ART processed 70.78% (29184 records), PUH-2010-141_3ar.csv
+NoART processed 54.86% (18176 records), PUH-2010-083_02noar.csv
+ART processed 71.39% (29440 records), PUH-2010-141_3ar.csv
+NoART processed 55.63% (18432 records), PUH-2010-083_02noar.csv
+ART processed 72.01% (29696 records), PUH-2010-141_3ar.csv
+NoART processed 56.43% (18688 records), PUH-2010-083_02noar.csv
+ART processed 72.62% (29952 records), PUH-2010-141_3ar.csv
+NoART processed 57.21% (18944 records), PUH-2010-083_02noar.csv
+ART processed 73.23% (30208 records), PUH-2010-141_3ar.csv
+NoART processed 57.98% (19200 records), PUH-2010-083_02noar.csv
+ART processed 73.85% (30464 records), PUH-2010-141_3ar.csv
+NoART processed 58.76% (19456 records), PUH-2010-083_02noar.csv
+ART processed 74.46% (30720 records), PUH-2010-141_3ar.csv
+ART processed 75.08% (30976 records), PUH-2010-141_3ar.csv
+NoART processed 59.53% (19712 records), PUH-2010-083_02noar.csv
+NoART processed 60.31% (19968 records), PUH-2010-083_02noar.csv
+ART processed 75.70% (31232 records), PUH-2010-141_3ar.csv
+NoART processed 61.08% (20224 records), PUH-2010-083_02noar.csv
+ART processed 76.32% (31488 records), PUH-2010-141_3ar.csv
+NoART processed 61.85% (20480 records), PUH-2010-083_02noar.csv
+ART processed 76.93% (31744 records), PUH-2010-141_3ar.csv
+NoART processed 62.63% (20736 records), PUH-2010-083_02noar.csv
+ART processed 77.55% (32000 records), PUH-2010-141_3ar.csv
+NoART processed 63.40% (20992 records), PUH-2010-083_02noar.csv
+ART processed 78.17% (32256 records), PUH-2010-141_3ar.csv
+ART processed 78.79% (32512 records), PUH-2010-141_3ar.csv
+NoART processed 64.18% (21248 records), PUH-2010-083_02noar.csv
+ART processed 79.41% (32768 records), PUH-2010-141_3ar.csv
+NoART processed 64.96% (21504 records), PUH-2010-083_02noar.csv
+NoART processed 65.74% (21760 records), PUH-2010-083_02noar.csv
+ART processed 80.02% (33024 records), PUH-2010-141_3ar.csv
+NoART processed 66.51% (22016 records), PUH-2010-083_02noar.csv
+ART processed 80.64% (33280 records), PUH-2010-141_3ar.csv
+NoART processed 67.29% (22272 records), PUH-2010-083_02noar.csv
+ART processed 81.26% (33536 records), PUH-2010-141_3ar.csv
+NoART processed 68.07% (22528 records), PUH-2010-083_02noar.csv
+ART processed 81.87% (33792 records), PUH-2010-141_3ar.csv
+NoART processed 68.85% (22784 records), PUH-2010-083_02noar.csv
+ART processed 82.49% (34048 records), PUH-2010-141_3ar.csv
+NoART processed 69.62% (23040 records), PUH-2010-083_02noar.csv
+ART processed 83.11% (34304 records), PUH-2010-141_3ar.csv
+NoART processed 70.39% (23296 records), PUH-2010-083_02noar.csv
+ART processed 83.73% (34560 records), PUH-2010-141_3ar.csv
+NoART processed 71.16% (23552 records), PUH-2010-083_02noar.csv
+ART processed 84.34% (34816 records), PUH-2010-141_3ar.csv
+NoART processed 71.94% (23808 records), PUH-2010-083_02noar.csv
+ART processed 84.95% (35072 records), PUH-2010-141_3ar.csv
+NoART processed 72.70% (24064 records), PUH-2010-083_02noar.csv
+ART processed 85.57% (35328 records), PUH-2010-141_3ar.csv
+NoART processed 73.47% (24320 records), PUH-2010-083_02noar.csv
+ART processed 86.19% (35584 records), PUH-2010-141_3ar.csv
+NoART processed 74.25% (24576 records), PUH-2010-083_02noar.csv
+ART processed 86.81% (35840 records), PUH-2010-141_3ar.csv
+NoART processed 75.02% (24832 records), PUH-2010-083_02noar.csv
+ART processed 87.42% (36096 records), PUH-2010-141_3ar.csv
+NoART processed 75.78% (25088 records), PUH-2010-083_02noar.csv
+ART processed 88.04% (36352 records), PUH-2010-141_3ar.csv
+NoART processed 76.55% (25344 records), PUH-2010-083_02noar.csv
+ART processed 88.65% (36608 records), PUH-2010-141_3ar.csv
+NoART processed 77.32% (25600 records), PUH-2010-083_02noar.csv
+ART processed 89.27% (36864 records), PUH-2010-141_3ar.csv
+NoART processed 78.09% (25856 records), PUH-2010-083_02noar.csv
+ART processed 89.88% (37120 records), PUH-2010-141_3ar.csv
+NoART processed 78.86% (26112 records), PUH-2010-083_02noar.csv
+ART processed 90.50% (37376 records), PUH-2010-141_3ar.csv
+NoART processed 79.65% (26368 records), PUH-2010-083_02noar.csv
+ART processed 91.12% (37632 records), PUH-2010-141_3ar.csv
+NoART processed 80.42% (26624 records), PUH-2010-083_02noar.csv
+ART processed 91.73% (37888 records), PUH-2010-141_3ar.csv
+NoART processed 81.20% (26880 records), PUH-2010-083_02noar.csv
+ART processed 92.35% (38144 records), PUH-2010-141_3ar.csv
+NoART processed 81.98% (27136 records), PUH-2010-083_02noar.csv
+ART processed 92.96% (38400 records), PUH-2010-141_3ar.csv
+NoART processed 82.76% (27392 records), PUH-2010-083_02noar.csv
+ART processing 'PUH-2010-141_4ar.csv'
+org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: timeout
+	at org.influxdb.impl.InfluxDBImpl.execute(InfluxDBImpl.java:541)
+	at org.influxdb.impl.InfluxDBImpl.write(InfluxDBImpl.java:312)
+	at app.service.ImportCsvService.importProc(ImportCsvService.java:161)
+	at app.service.ImportCsvService.ImportByFile(ImportCsvService.java:196)
+	at app.service.ImportCsvService.ImportByList(ImportCsvService.java:213)
+	at app.service.ImportCsvService$2.run(ImportCsvService.java:235)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketTimeoutException: timeout
+	at okio.Okio$4.newTimeoutException(Okio.java:230)
+	at okio.AsyncTimeout.exit(AsyncTimeout.java:285)
+	at okio.AsyncTimeout$2.read(AsyncTimeout.java:241)
+	at okio.RealBufferedSource.indexOf(RealBufferedSource.java:345)
+	at okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:217)
+	at okhttp3.internal.http1.Http1Codec.readHeaderLine(Http1Codec.java:212)
+	at okhttp3.internal.http1.Http1Codec.readResponseHeaders(Http1Codec.java:189)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.java:88)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:45)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at org.influxdb.impl.GzipRequestInterceptor.intercept(GzipRequestInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.logging.HttpLoggingInterceptor.intercept(HttpLoggingInterceptor.java:143)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at retrofit2.OkHttpCall.execute(OkHttpCall.java:180)
+	at org.influxdb.impl.InfluxDBImpl.execute(InfluxDBImpl.java:533)
+	... 6 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at okio.Okio$2.read(Okio.java:139)
+	at okio.AsyncTimeout$2.read(AsyncTimeout.java:237)
+	... 33 more
+NoART processing 'PUH-2010-086_01noar.csv'
+org.influxdb.InfluxDBIOException: java.net.SocketTimeoutException: timeout
+	at org.influxdb.impl.InfluxDBImpl.execute(InfluxDBImpl.java:541)
+	at org.influxdb.impl.InfluxDBImpl.write(InfluxDBImpl.java:312)
+	at app.service.ImportCsvService.importProc(ImportCsvService.java:161)
+	at app.service.ImportCsvService.ImportByFile(ImportCsvService.java:196)
+	at app.service.ImportCsvService.ImportByList(ImportCsvService.java:213)
+	at app.service.ImportCsvService$1.run(ImportCsvService.java:226)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketTimeoutException: timeout
+	at okio.Okio$4.newTimeoutException(Okio.java:230)
+	at okio.AsyncTimeout.exit(AsyncTimeout.java:285)
+	at okio.AsyncTimeout$2.read(AsyncTimeout.java:241)
+	at okio.RealBufferedSource.indexOf(RealBufferedSource.java:345)
+	at okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:217)
+	at okhttp3.internal.http1.Http1Codec.readHeaderLine(Http1Codec.java:212)
+	at okhttp3.internal.http1.Http1Codec.readResponseHeaders(Http1Codec.java:189)
+	at okhttp3.internal.http.CallServerInterceptor.intercept(CallServerInterceptor.java:88)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.connection.ConnectInterceptor.intercept(ConnectInterceptor.java:45)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.cache.CacheInterceptor.intercept(CacheInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.internal.http.BridgeInterceptor.intercept(BridgeInterceptor.java:93)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RetryAndFollowUpInterceptor.intercept(RetryAndFollowUpInterceptor.java:125)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at org.influxdb.impl.GzipRequestInterceptor.intercept(GzipRequestInterceptor.java:42)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.logging.HttpLoggingInterceptor.intercept(HttpLoggingInterceptor.java:143)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:147)
+	at okhttp3.internal.http.RealInterceptorChain.proceed(RealInterceptorChain.java:121)
+	at okhttp3.RealCall.getResponseWithInterceptorChain(RealCall.java:200)
+	at okhttp3.RealCall.execute(RealCall.java:77)
+	at retrofit2.OkHttpCall.execute(OkHttpCall.java:180)
+	at org.influxdb.impl.InfluxDBImpl.execute(InfluxDBImpl.java:533)
+	... 6 more
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at okio.Okio$2.read(Okio.java:139)
+	at okio.AsyncTimeout$2.read(AsyncTimeout.java:237)
+	... 33 more
+PUH-2010-141_4ar.csv columns: 6039
+PUH-2010-086_01noar.csv columns: 6039
+ART processed 4.77% (256 records), PUH-2010-141_4ar.csv
+NoART processed 1.12% (256 records), PUH-2010-086_01noar.csv
+ART processed 9.54% (512 records), PUH-2010-141_4ar.csv
+NoART processed 2.19% (512 records), PUH-2010-086_01noar.csv
+ART processed 14.33% (768 records), PUH-2010-141_4ar.csv
+NoART processed 3.30% (768 records), PUH-2010-086_01noar.csv
+ART processed 19.11% (1024 records), PUH-2010-141_4ar.csv
+NoART processed 4.38% (1024 records), PUH-2010-086_01noar.csv
+ART processed 23.86% (1280 records), PUH-2010-141_4ar.csv
+NoART processed 5.45% (1280 records), PUH-2010-086_01noar.csv
+ART processed 28.63% (1536 records), PUH-2010-141_4ar.csv
+NoART processed 6.53% (1536 records), PUH-2010-086_01noar.csv
+ART processed 33.41% (1792 records), PUH-2010-141_4ar.csv
+NoART processed 7.62% (1792 records), PUH-2010-086_01noar.csv
+ART processed 38.19% (2048 records), PUH-2010-141_4ar.csv
+NoART processed 8.71% (2048 records), PUH-2010-086_01noar.csv
+ART processed 42.95% (2304 records), PUH-2010-141_4ar.csv
+NoART processed 9.78% (2304 records), PUH-2010-086_01noar.csv
+ART processed 47.70% (2560 records), PUH-2010-141_4ar.csv
+NoART processed 10.84% (2560 records), PUH-2010-086_01noar.csv
+ART processed 52.45% (2816 records), PUH-2010-141_4ar.csv
+NoART processed 11.91% (2816 records), PUH-2010-086_01noar.csv
+ART processed 57.21% (3072 records), PUH-2010-141_4ar.csv
+NoART processed 12.98% (3072 records), PUH-2010-086_01noar.csv
+ART processed 61.99% (3328 records), PUH-2010-141_4ar.csv
+NoART processed 14.06% (3328 records), PUH-2010-086_01noar.csv
+ART processed 66.75% (3584 records), PUH-2010-141_4ar.csv
+ART processed 71.52% (3840 records), PUH-2010-141_4ar.csv
+NoART processed 15.13% (3584 records), PUH-2010-086_01noar.csv
+ART processed 76.30% (4096 records), PUH-2010-141_4ar.csv
+NoART processed 16.19% (3840 records), PUH-2010-086_01noar.csv
+ART processed 81.07% (4352 records), PUH-2010-141_4ar.csv
+NoART processed 17.25% (4096 records), PUH-2010-086_01noar.csv
+ART processed 85.83% (4608 records), PUH-2010-141_4ar.csv
+NoART processed 18.32% (4352 records), PUH-2010-086_01noar.csv
+NoART processed 19.38% (4608 records), PUH-2010-086_01noar.csv
+ART processed 90.61% (4864 records), PUH-2010-141_4ar.csv
+ART processed 95.40% (5120 records), PUH-2010-141_4ar.csv
+NoART processed 20.43% (4864 records), PUH-2010-086_01noar.csv
+ART processed 99.98% (5376 records), PUH-2010-141_4ar.csv
+Finished for 'PUH-2010-141_4ar.csv'
+N:\Test_AR\PUH-2010-141_4ar.csv. Import time: 1.97 min
+
+ART processing 'PUH-2010-141_5ar.csv'
+NoART processed 21.50% (5120 records), PUH-2010-086_01noar.csv
+PUH-2010-141_5ar.csv columns: 6039
+NoART processed 22.54% (5376 records), PUH-2010-086_01noar.csv
+ART processed 1.43% (256 records), PUH-2010-141_5ar.csv
+ART processed 2.88% (512 records), PUH-2010-141_5ar.csv
+NoART processed 23.58% (5632 records), PUH-2010-086_01noar.csv
+ART processed 4.32% (768 records), PUH-2010-141_5ar.csv
+NoART processed 24.67% (5888 records), PUH-2010-086_01noar.csv
+ART processed 5.75% (1024 records), PUH-2010-141_5ar.csv
+NoART processed 25.79% (6144 records), PUH-2010-086_01noar.csv
+ART processed 7.18% (1280 records), PUH-2010-141_5ar.csv
+NoART processed 26.88% (6400 records), PUH-2010-086_01noar.csv
+ART processed 8.61% (1536 records), PUH-2010-141_5ar.csv
+NoART processed 27.94% (6656 records), PUH-2010-086_01noar.csv
+ART processed 10.03% (1792 records), PUH-2010-141_5ar.csv
+NoART processed 28.99% (6912 records), PUH-2010-086_01noar.csv
+ART processed 11.49% (2048 records), PUH-2010-141_5ar.csv
+NoART processed 30.05% (7168 records), PUH-2010-086_01noar.csv
+ART processed 12.93% (2304 records), PUH-2010-141_5ar.csv
+NoART processed 31.10% (7424 records), PUH-2010-086_01noar.csv
+ART processed 14.37% (2560 records), PUH-2010-141_5ar.csv
+NoART processed 32.16% (7680 records), PUH-2010-086_01noar.csv
+ART processed 15.81% (2816 records), PUH-2010-141_5ar.csv
+NoART processed 33.22% (7936 records), PUH-2010-086_01noar.csv
+ART processed 17.25% (3072 records), PUH-2010-141_5ar.csv
+NoART processed 34.29% (8192 records), PUH-2010-086_01noar.csv
+ART processed 18.67% (3328 records), PUH-2010-141_5ar.csv
+NoART processed 35.36% (8448 records), PUH-2010-086_01noar.csv
+ART processed 20.10% (3584 records), PUH-2010-141_5ar.csv
+NoART processed 36.43% (8704 records), PUH-2010-086_01noar.csv
+ART processed 21.52% (3840 records), PUH-2010-141_5ar.csv
+NoART processed 37.48% (8960 records), PUH-2010-086_01noar.csv
+ART processed 22.96% (4096 records), PUH-2010-141_5ar.csv
+NoART processed 38.54% (9216 records), PUH-2010-086_01noar.csv
+ART processed 24.40% (4352 records), PUH-2010-141_5ar.csv
+NoART processed 39.59% (9472 records), PUH-2010-086_01noar.csv
+ART processed 25.84% (4608 records), PUH-2010-141_5ar.csv
+NoART processed 40.64% (9728 records), PUH-2010-086_01noar.csv
+ART processed 27.28% (4864 records), PUH-2010-141_5ar.csv
+NoART processed 41.68% (9984 records), PUH-2010-086_01noar.csv
+ART processed 28.73% (5120 records), PUH-2010-141_5ar.csv
+NoART processed 42.73% (10240 records), PUH-2010-086_01noar.csv
+ART processed 30.17% (5376 records), PUH-2010-141_5ar.csv
+NoART processed 43.77% (10496 records), PUH-2010-086_01noar.csv
+ART processed 31.62% (5632 records), PUH-2010-141_5ar.csv
+NoART processed 44.81% (10752 records), PUH-2010-086_01noar.csv
+ART processed 33.05% (5888 records), PUH-2010-141_5ar.csv
+NoART processed 45.72% (11008 records), PUH-2010-086_01noar.csv
+ART processed 34.49% (6144 records), PUH-2010-141_5ar.csv
+NoART processed 46.65% (11264 records), PUH-2010-086_01noar.csv
+ART processed 35.92% (6400 records), PUH-2010-141_5ar.csv
+NoART processed 47.56% (11520 records), PUH-2010-086_01noar.csv
+ART processed 37.35% (6656 records), PUH-2010-141_5ar.csv
+NoART processed 48.44% (11776 records), PUH-2010-086_01noar.csv
+ART processed 38.79% (6912 records), PUH-2010-141_5ar.csv
+NoART processed 49.32% (12032 records), PUH-2010-086_01noar.csv
+ART processed 40.21% (7168 records), PUH-2010-141_5ar.csv
+NoART processed 50.25% (12288 records), PUH-2010-086_01noar.csv
+ART processed 41.65% (7424 records), PUH-2010-141_5ar.csv
+NoART processed 51.16% (12544 records), PUH-2010-086_01noar.csv
+ART processed 43.08% (7680 records), PUH-2010-141_5ar.csv
+NoART processed 52.06% (12800 records), PUH-2010-086_01noar.csv
+ART processed 44.52% (7936 records), PUH-2010-141_5ar.csv
+NoART processed 52.98% (13056 records), PUH-2010-086_01noar.csv
+ART processed 45.96% (8192 records), PUH-2010-141_5ar.csv
+NoART processed 53.90% (13312 records), PUH-2010-086_01noar.csv
+ART processed 47.39% (8448 records), PUH-2010-141_5ar.csv
+NoART processed 54.82% (13568 records), PUH-2010-086_01noar.csv
+ART processed 48.82% (8704 records), PUH-2010-141_5ar.csv
+NoART processed 55.73% (13824 records), PUH-2010-086_01noar.csv
+ART processed 50.26% (8960 records), PUH-2010-141_5ar.csv
+NoART processed 56.64% (14080 records), PUH-2010-086_01noar.csv
+ART processed 51.69% (9216 records), PUH-2010-141_5ar.csv
+NoART processed 57.54% (14336 records), PUH-2010-086_01noar.csv
+ART processed 53.13% (9472 records), PUH-2010-141_5ar.csv
+NoART processed 58.45% (14592 records), PUH-2010-086_01noar.csv
+ART processed 54.55% (9728 records), PUH-2010-141_5ar.csv
+NoART processed 59.36% (14848 records), PUH-2010-086_01noar.csv
+ART processed 55.98% (9984 records), PUH-2010-141_5ar.csv
+NoART processed 60.30% (15104 records), PUH-2010-086_01noar.csv
+ART processed 57.42% (10240 records), PUH-2010-141_5ar.csv
+NoART processed 61.23% (15360 records), PUH-2010-086_01noar.csv
+ART processed 58.84% (10496 records), PUH-2010-141_5ar.csv
+NoART processed 62.13% (15616 records), PUH-2010-086_01noar.csv
+ART processed 60.27% (10752 records), PUH-2010-141_5ar.csv
+NoART processed 63.04% (15872 records), PUH-2010-086_01noar.csv
+ART processed 61.70% (11008 records), PUH-2010-141_5ar.csv
+NoART processed 63.94% (16128 records), PUH-2010-086_01noar.csv
+NoART processed 64.86% (16384 records), PUH-2010-086_01noar.csv
+ART processed 63.13% (11264 records), PUH-2010-141_5ar.csv
+ART processed 64.56% (11520 records), PUH-2010-141_5ar.csv
+NoART processed 65.77% (16640 records), PUH-2010-086_01noar.csv
+ART processed 65.99% (11776 records), PUH-2010-141_5ar.csv
+NoART processed 66.67% (16896 records), PUH-2010-086_01noar.csv
+ART processed 67.41% (12032 records), PUH-2010-141_5ar.csv
+NoART processed 67.58% (17152 records), PUH-2010-086_01noar.csv
+ART processed 68.84% (12288 records), PUH-2010-141_5ar.csv
+NoART processed 68.48% (17408 records), PUH-2010-086_01noar.csv
+ART processed 70.27% (12544 records), PUH-2010-141_5ar.csv
+NoART processed 69.39% (17664 records), PUH-2010-086_01noar.csv
+ART processed 71.69% (12800 records), PUH-2010-141_5ar.csv
+NoART processed 70.30% (17920 records), PUH-2010-086_01noar.csv
+NoART processed 71.21% (18176 records), PUH-2010-086_01noar.csv
+ART processed 73.11% (13056 records), PUH-2010-141_5ar.csv
+NoART processed 72.11% (18432 records), PUH-2010-086_01noar.csv
+ART processed 74.53% (13312 records), PUH-2010-141_5ar.csv
+NoART processed 73.03% (18688 records), PUH-2010-086_01noar.csv
+ART processed 75.96% (13568 records), PUH-2010-141_5ar.csv
+ART processed 77.42% (13824 records), PUH-2010-141_5ar.csv
+NoART processed 73.93% (18944 records), PUH-2010-086_01noar.csv
+ART processed 78.90% (14080 records), PUH-2010-141_5ar.csv
+NoART processed 74.82% (19200 records), PUH-2010-086_01noar.csv
+NoART processed 75.71% (19456 records), PUH-2010-086_01noar.csv
+ART processed 80.37% (14336 records), PUH-2010-141_5ar.csv
+NoART processed 76.61% (19712 records), PUH-2010-086_01noar.csv
+ART processed 81.81% (14592 records), PUH-2010-141_5ar.csv
+NoART processed 77.50% (19968 records), PUH-2010-086_01noar.csv
+ART processed 83.23% (14848 records), PUH-2010-141_5ar.csv
+NoART processed 78.39% (20224 records), PUH-2010-086_01noar.csv
+ART processed 84.66% (15104 records), PUH-2010-141_5ar.csv
+NoART processed 79.28% (20480 records), PUH-2010-086_01noar.csv
+ART processed 86.07% (15360 records), PUH-2010-141_5ar.csv
+ART processed 87.50% (15616 records), PUH-2010-141_5ar.csv
+NoART processed 80.24% (20736 records), PUH-2010-086_01noar.csv
+ART processed 88.95% (15872 records), PUH-2010-141_5ar.csv
+NoART processed 81.22% (20992 records), PUH-2010-086_01noar.csv
+ART processed 90.41% (16128 records), PUH-2010-141_5ar.csv
+NoART processed 82.16% (21248 records), PUH-2010-086_01noar.csv
+ART processed 91.89% (16384 records), PUH-2010-141_5ar.csv
+NoART processed 83.09% (21504 records), PUH-2010-086_01noar.csv
+ART processed 93.35% (16640 records), PUH-2010-141_5ar.csv
+NoART processed 84.00% (21760 records), PUH-2010-086_01noar.csv
+ART processed 94.82% (16896 records), PUH-2010-141_5ar.csv
+NoART processed 84.91% (22016 records), PUH-2010-086_01noar.csv
+ART processed 96.28% (17152 records), PUH-2010-141_5ar.csv
+NoART processed 85.83% (22272 records), PUH-2010-086_01noar.csv
+ART processed 97.75% (17408 records), PUH-2010-141_5ar.csv
+NoART processed 86.75% (22528 records), PUH-2010-086_01noar.csv
+ART processed 99.19% (17664 records), PUH-2010-141_5ar.csv
+NoART processed 87.67% (22784 records), PUH-2010-086_01noar.csv
+Finished for 'PUH-2010-141_5ar.csv'
+N:\Test_AR\PUH-2010-141_5ar.csv. Import time: 6.46 min
+
+NoART processed 88.58% (23040 records), PUH-2010-086_01noar.csv
+NoART processed 89.48% (23296 records), PUH-2010-086_01noar.csv
+NoART processed 90.39% (23552 records), PUH-2010-086_01noar.csv
+NoART processed 91.29% (23808 records), PUH-2010-086_01noar.csv
+NoART processed 92.20% (24064 records), PUH-2010-086_01noar.csv
+NoART processed 93.10% (24320 records), PUH-2010-086_01noar.csv
+NoART processed 93.94% (24576 records), PUH-2010-086_01noar.csv
+NoART processed 94.78% (24832 records), PUH-2010-086_01noar.csv
+NoART processed 95.61% (25088 records), PUH-2010-086_01noar.csv
+NoART processed 96.44% (25344 records), PUH-2010-086_01noar.csv
+NoART processed 97.27% (25600 records), PUH-2010-086_01noar.csv
+NoART processed 98.11% (25856 records), PUH-2010-086_01noar.csv
+NoART processed 98.96% (26112 records), PUH-2010-086_01noar.csv
+NoART processed 99.85% (26368 records), PUH-2010-086_01noar.csv
+Finished for 'PUH-2010-086_01noar.csv'
+N:\Test_NoAR\PUH-2010-086_01noar.csv. Import time: 9.46 min
+
+
+Process finished with exit code 0
