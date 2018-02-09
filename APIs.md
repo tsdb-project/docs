@@ -6,9 +6,11 @@ Backend APIs document for this project.
 
 > To be editted, not in Mininum Prototype
 
-All API URLs need to start with `/apis/`. Time supposed to be **UTC**.
+All API URLs need to start with `/apis/`. Time is **UTC** in InfluxDB. All POST should be `application/x-www-form-urlencoded` unless noted.
 
 ## Patients
+
+> Status: Backend on-going.
 
 Path: `patients/` (eg. `http://127.0.0.1:8080/apis/patients/`)
 
@@ -20,11 +22,26 @@ Path: `patients/` (eg. `http://127.0.0.1:8080/apis/patients/`)
 
 ### Return vals
 
-- Empty if no results
-- Patient JSON array if there are multiple results
-- Patient JSON object if one result
+- Empty if no results.
+- Patient JSON array if there are multiple results.
+- Patient JSON object if **find by PID**.
 
-1. Examples (<http://127.0.0.1:8080/apis/patients/>):
+### Detailed params
+
+#### For id=2
+
+Only has POST params:
+
+| Key | Value | Example Value | isMandatory | Role | Notes |
+|:---|:---|:---|:---|:---|:---|
+| pid | String | "PUH-2010-014" | No | Find by PID | Overides other criteria |
+| gender | String | "M" or "F" | No | Find by gender| Can be combined with other |
+| minage | Integer | eg. 15 | No | Find by min age | Working `maxage` would turn into a age range search |
+| maxage | Integer | eg. 50 | No | Find by max age | Working `minage` would turn into a age range search |
+
+### Examples
+
+- <http://127.0.0.1:8080/apis/patients/find>:
 
 ```json
 [
@@ -44,7 +61,7 @@ Path: `patients/` (eg. `http://127.0.0.1:8080/apis/patients/`)
 ]
 ```
 
-2. Examples (<http://127.0.0.1:8080/apis/patients/PUH-2010-140>):
+- <http://127.0.0.1:8080/apis/patients/PUH-2010-140>:
 
 ```json
 {
@@ -54,11 +71,6 @@ Path: `patients/` (eg. `http://127.0.0.1:8080/apis/patients/`)
     "gender": "F"
 }
 ```
-
-
-### Detailed params
-
-
 
 ## Query
 
@@ -74,4 +86,9 @@ Path: `patients/` (eg. `http://127.0.0.1:8080/apis/patients/`)
 
 ## Import
 
+> Status: Backend finished, need for info.
 
+## TODOs
+
+- [ ] Wrap result with a status class.
+- [ ] Ask John for more details on AR/NoAR.
