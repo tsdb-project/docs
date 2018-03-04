@@ -26,7 +26,7 @@ Get start doing stuff! All latest version as on **2018/03/04**.
 ### InfluxDB
 
 ```bash
-docker run -td -p 8086:8086 -p 2003:2003 \
+docker run -td -p 8086:8086 -p 2003:2003 -p 8082:8082 \
 -v /home/tonyz/share/Docker/influxdb/config/influxdb.conf:/etc/influxdb/influxdb.conf:ro \
 -v /home/tonyz/share/Docker/influxdb/data:/var/lib/influxdb influxdb:1.4.3-alpine
 ```
